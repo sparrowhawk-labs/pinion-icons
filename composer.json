@@ -1,0 +1,38 @@
+{
+    "name": "sparrowhawk-labs/pinion-icons",
+    "description": "Unified icon system for Laravel. 7,404 Solar icons across 6 style variants, plus Fluent Emoji and Pixelarticons virtual variants — switch styles or libraries at the call site.",
+    "keywords": ["laravel", "blade", "icons", "solar", "fluent-emoji", "pixelarticons", "svg", "sparrowhawk-labs", "pinion"],
+    "type": "library",
+    "license": "MIT",
+    "homepage": "https://sparrowhawk-labs.dev",
+    "support": {
+        "issues": "https://github.com/sparrowhawk-labs/pinion-icons/issues",
+        "source": "https://github.com/sparrowhawk-labs/pinion-icons"
+    },
+    "authors": [
+        {
+            "name": "Akihiko Takai",
+            "email": "akihiko.takai@yakaze.com",
+            "homepage": "https://sparrowhawk-labs.dev",
+            "role": "Developer"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "SparrowhawkLabs\\PinionIcons\\": "src/"
+        }
+    },
+    "require": {
+        "php": "^8.2",
+        "illuminate/support": "^11.0|^12.0|^13.0"
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "SparrowhawkLabs\\PinionIcons\\PinionIconsServiceProvider"
+            ]
+        }
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}

@@ -1,0 +1,6172 @@
+[
+  {
+    "solar": "4k",
+    "emoji": "keycap_10",
+    "pixel": "4k"
+  },
+  {
+    "solar": "accessibility",
+    "emoji": "wheelchair_symbol",
+    "pixel": "human"
+  },
+  {
+    "solar": "accumulator",
+    "emoji": "battery",
+    "pixel": "battery"
+  },
+  {
+    "solar": "add-circle",
+    "emoji": "plus",
+    "pixel": "circle"
+  },
+  {
+    "solar": "add-folder",
+    "emoji": "file_folder",
+    "pixel": "folder-plus"
+  },
+  {
+    "solar": "add-square",
+    "emoji": "plus",
+    "pixel": "add-box"
+  },
+  {
+    "solar": "adhesive-plaster",
+    "emoji": "adhesive_bandage",
+    "pixel": "plus"
+  },
+  {
+    "solar": "adhesive-plaster-2",
+    "emoji": "adhesive_bandage",
+    "pixel": "plus"
+  },
+  {
+    "solar": "airbuds",
+    "emoji": "headphone",
+    "pixel": "headphone"
+  },
+  {
+    "solar": "airbuds-case",
+    "emoji": "headphone",
+    "pixel": "headphone"
+  },
+  {
+    "solar": "airbuds-case-charge",
+    "emoji": "headphone",
+    "pixel": "battery-charging"
+  },
+  {
+    "solar": "airbuds-case-minimalistic",
+    "emoji": "headphone",
+    "pixel": "headphone"
+  },
+  {
+    "solar": "airbuds-case-open",
+    "emoji": "headphone",
+    "pixel": "headphone"
+  },
+  {
+    "solar": "airbuds-charge",
+    "emoji": "headphone",
+    "pixel": "battery-charging"
+  },
+  {
+    "solar": "airbuds-check",
+    "emoji": "headphone",
+    "pixel": "headphone"
+  },
+  {
+    "solar": "airbuds-left",
+    "emoji": "headphone",
+    "pixel": "headphone"
+  },
+  {
+    "solar": "airbuds-remove",
+    "emoji": "headphone",
+    "pixel": "headphone"
+  },
+  {
+    "solar": "airbuds-right",
+    "emoji": "headphone",
+    "pixel": "headphone"
+  },
+  {
+    "solar": "alarm",
+    "emoji": "alarm_clock",
+    "pixel": "clock"
+  },
+  {
+    "solar": "alarm-add",
+    "emoji": "alarm_clock",
+    "pixel": "clock"
+  },
+  {
+    "solar": "alarm-pause",
+    "emoji": "alarm_clock",
+    "pixel": "clock"
+  },
+  {
+    "solar": "alarm-play",
+    "emoji": "alarm_clock",
+    "pixel": "clock"
+  },
+  {
+    "solar": "alarm-remove",
+    "emoji": "alarm_clock",
+    "pixel": "clock"
+  },
+  {
+    "solar": "alarm-sleep",
+    "emoji": "alarm_clock",
+    "pixel": "moon"
+  },
+  {
+    "solar": "alarm-turn-off",
+    "emoji": "alarm_clock",
+    "pixel": "clock"
+  },
+  {
+    "solar": "album",
+    "emoji": "musical_note",
+    "pixel": "image-gallery"
+  },
+  {
+    "solar": "align-bottom",
+    "emoji": "down_arrow",
+    "pixel": "layout-align-bottom"
+  },
+  {
+    "solar": "align-horizonta-spacing",
+    "emoji": "left_arrow",
+    "pixel": "layout-distribute-horizontal"
+  },
+  {
+    "solar": "align-horizontal-center",
+    "emoji": "left_arrow",
+    "pixel": "align-center"
+  },
+  {
+    "solar": "align-left",
+    "emoji": "left_arrow",
+    "pixel": "align-left"
+  },
+  {
+    "solar": "align-right",
+    "emoji": "right_arrow",
+    "pixel": "align-right"
+  },
+  {
+    "solar": "align-top",
+    "emoji": "up_arrow",
+    "pixel": "layout-align-top"
+  },
+  {
+    "solar": "align-vertical-center",
+    "emoji": "up_arrow",
+    "pixel": "layout-distribute-vertical"
+  },
+  {
+    "solar": "align-vertical-spacing",
+    "emoji": "up_arrow",
+    "pixel": "layout-distribute-vertical"
+  },
+  {
+    "solar": "alt-arrow-down",
+    "emoji": "down_arrow",
+    "pixel": "arrow-down"
+  },
+  {
+    "solar": "alt-arrow-left",
+    "emoji": "left_arrow",
+    "pixel": "arrow-left"
+  },
+  {
+    "solar": "alt-arrow-right",
+    "emoji": "right_arrow",
+    "pixel": "arrow-right"
+  },
+  {
+    "solar": "alt-arrow-up",
+    "emoji": "up_arrow",
+    "pixel": "arrow-up"
+  },
+  {
+    "solar": "archive",
+    "emoji": "card_file_box",
+    "pixel": "archive"
+  },
+  {
+    "solar": "archive-check",
+    "emoji": "card_file_box",
+    "pixel": "archive"
+  },
+  {
+    "solar": "archive-down",
+    "emoji": "card_file_box",
+    "pixel": "archive"
+  },
+  {
+    "solar": "archive-down-minimlistic",
+    "emoji": "card_file_box",
+    "pixel": "archive"
+  },
+  {
+    "solar": "archive-minimalistic",
+    "emoji": "card_file_box",
+    "pixel": "archive"
+  },
+  {
+    "solar": "archive-up",
+    "emoji": "card_file_box",
+    "pixel": "archive"
+  },
+  {
+    "solar": "archive-up-minimlistic",
+    "emoji": "card_file_box",
+    "pixel": "archive"
+  },
+  {
+    "solar": "armchair",
+    "emoji": "chair",
+    "pixel": "more-horizontal"
+  },
+  {
+    "solar": "armchair-2",
+    "emoji": "chair",
+    "pixel": "more-horizontal"
+  },
+  {
+    "solar": "arrow-down",
+    "emoji": "down_arrow",
+    "pixel": "arrow-down"
+  },
+  {
+    "solar": "arrow-left",
+    "emoji": "left_arrow",
+    "pixel": "arrow-left"
+  },
+  {
+    "solar": "arrow-left-down",
+    "emoji": "down_arrow",
+    "pixel": "corner-left-down"
+  },
+  {
+    "solar": "arrow-left-up",
+    "emoji": "up_arrow",
+    "pixel": "corner-left-up"
+  },
+  {
+    "solar": "arrow-right",
+    "emoji": "right_arrow",
+    "pixel": "arrow-right"
+  },
+  {
+    "solar": "arrow-right-down",
+    "emoji": "down_arrow",
+    "pixel": "corner-right-down"
+  },
+  {
+    "solar": "arrow-right-up",
+    "emoji": "up_arrow",
+    "pixel": "corner-right-up"
+  },
+  {
+    "solar": "arrow-to-down-left",
+    "emoji": "down_arrow",
+    "pixel": "corner-down-left"
+  },
+  {
+    "solar": "arrow-to-down-right",
+    "emoji": "down_arrow",
+    "pixel": "corner-down-right"
+  },
+  {
+    "solar": "arrow-to-top-left",
+    "emoji": "up_arrow",
+    "pixel": "corner-up-left"
+  },
+  {
+    "solar": "arrow-to-top-right",
+    "emoji": "up_arrow",
+    "pixel": "corner-up-right"
+  },
+  {
+    "solar": "arrow-up",
+    "emoji": "up_arrow",
+    "pixel": "arrow-up"
+  },
+  {
+    "solar": "asteroid",
+    "emoji": "comet",
+    "pixel": "zap"
+  },
+  {
+    "solar": "atom",
+    "emoji": "atom_symbol",
+    "pixel": "circle"
+  },
+  {
+    "solar": "augmented-reality",
+    "emoji": "gear",
+    "pixel": "more-horizontal"
+  },
+  {
+    "solar": "backpack",
+    "emoji": "backpack",
+    "pixel": "briefcase"
+  },
+  {
+    "solar": "backspace",
+    "emoji": "back_arrow",
+    "pixel": "delete"
+  },
+  {
+    "solar": "bacteria",
+    "emoji": "microbe",
+    "pixel": "bug"
+  },
+  {
+    "solar": "bag",
+    "emoji": "handbag",
+    "pixel": "shopping-bag"
+  },
+  {
+    "solar": "bag-2",
+    "emoji": "handbag",
+    "pixel": "shopping-bag"
+  },
+  {
+    "solar": "bag-3",
+    "emoji": "handbag",
+    "pixel": "shopping-bag"
+  },
+  {
+    "solar": "bag-4",
+    "emoji": "clutch_bag",
+    "pixel": "shopping-bag"
+  },
+  {
+    "solar": "bag-5",
+    "emoji": "clutch_bag",
+    "pixel": "shopping-bag"
+  },
+  {
+    "solar": "bag-check",
+    "emoji": "handbag",
+    "pixel": "shopping-bag"
+  },
+  {
+    "solar": "bag-cross",
+    "emoji": "handbag",
+    "pixel": "shopping-bag"
+  },
+  {
+    "solar": "bag-heart",
+    "emoji": "handbag",
+    "pixel": "shopping-bag"
+  },
+  {
+    "solar": "bag-music",
+    "emoji": "handbag",
+    "pixel": "shopping-bag"
+  },
+  {
+    "solar": "bag-music-2",
+    "emoji": "handbag",
+    "pixel": "shopping-bag"
+  },
+  {
+    "solar": "bag-smile",
+    "emoji": "handbag",
+    "pixel": "shopping-bag"
+  },
+  {
+    "solar": "balloon",
+    "emoji": "balloon",
+    "pixel": "circle"
+  },
+  {
+    "solar": "balls",
+    "emoji": "pool_8_ball",
+    "pixel": "circle"
+  },
+  {
+    "solar": "banknote",
+    "emoji": "dollar_banknote",
+    "pixel": "money"
+  },
+  {
+    "solar": "banknote-2",
+    "emoji": "dollar_banknote",
+    "pixel": "money"
+  },
+  {
+    "solar": "bar-chair",
+    "emoji": "chair",
+    "pixel": "more-horizontal"
+  },
+  {
+    "solar": "basketball",
+    "emoji": "basketball",
+    "pixel": "circle"
+  },
+  {
+    "solar": "bath",
+    "emoji": "bathtub",
+    "pixel": "drop-full"
+  },
+  {
+    "solar": "battery-charge",
+    "emoji": "battery",
+    "pixel": "battery-charging"
+  },
+  {
+    "solar": "battery-charge-minimalistic",
+    "emoji": "battery",
+    "pixel": "battery-charging"
+  },
+  {
+    "solar": "battery-full",
+    "emoji": "battery",
+    "pixel": "battery-full"
+  },
+  {
+    "solar": "battery-full-minimalistic",
+    "emoji": "battery",
+    "pixel": "battery-full"
+  },
+  {
+    "solar": "battery-half",
+    "emoji": "battery",
+    "pixel": "battery-2"
+  },
+  {
+    "solar": "battery-half-minimalistic",
+    "emoji": "battery",
+    "pixel": "battery-2"
+  },
+  {
+    "solar": "battery-low",
+    "emoji": "low_battery",
+    "pixel": "battery-1"
+  },
+  {
+    "solar": "battery-low-minimalistic",
+    "emoji": "low_battery",
+    "pixel": "battery-1"
+  },
+  {
+    "solar": "bed",
+    "emoji": "bed",
+    "pixel": "bed"
+  },
+  {
+    "solar": "bedside-table",
+    "emoji": "bed",
+    "pixel": "bed"
+  },
+  {
+    "solar": "bedside-table-2",
+    "emoji": "bed",
+    "pixel": "bed"
+  },
+  {
+    "solar": "bedside-table-3",
+    "emoji": "bed",
+    "pixel": "bed"
+  },
+  {
+    "solar": "bedside-table-4",
+    "emoji": "bed",
+    "pixel": "bed"
+  },
+  {
+    "solar": "bell",
+    "emoji": "bell",
+    "pixel": "bell"
+  },
+  {
+    "solar": "bell-bing",
+    "emoji": "bell",
+    "pixel": "notification"
+  },
+  {
+    "solar": "bell-off",
+    "emoji": "bell_with_slash",
+    "pixel": "notification-off"
+  },
+  {
+    "solar": "benzene-ring",
+    "emoji": "atom_symbol",
+    "pixel": "circle"
+  },
+  {
+    "solar": "bicycling",
+    "emoji": "bicycle",
+    "pixel": "more-horizontal"
+  },
+  {
+    "solar": "bicycling-round",
+    "emoji": "bicycle",
+    "pixel": "more-horizontal"
+  },
+  {
+    "solar": "bill",
+    "emoji": "dollar_banknote",
+    "pixel": "reciept"
+  },
+  {
+    "solar": "bill-check",
+    "emoji": "dollar_banknote",
+    "pixel": "reciept"
+  },
+  {
+    "solar": "bill-cross",
+    "emoji": "dollar_banknote",
+    "pixel": "reciept"
+  },
+  {
+    "solar": "bill-list",
+    "emoji": "dollar_banknote",
+    "pixel": "reciept"
+  },
+  {
+    "solar": "black-hole",
+    "emoji": "black_circle",
+    "pixel": "circle"
+  },
+  {
+    "solar": "black-hole-2",
+    "emoji": "black_circle",
+    "pixel": "circle"
+  },
+  {
+    "solar": "black-hole-3",
+    "emoji": "black_circle",
+    "pixel": "circle"
+  },
+  {
+    "solar": "bluetooth",
+    "emoji": "wireless",
+    "pixel": "bluetooth"
+  },
+  {
+    "solar": "bluetooth-circle",
+    "emoji": "wireless",
+    "pixel": "bluetooth"
+  },
+  {
+    "solar": "bluetooth-square",
+    "emoji": "wireless",
+    "pixel": "bluetooth"
+  },
+  {
+    "solar": "bluetooth-wave",
+    "emoji": "wireless",
+    "pixel": "bluetooth"
+  },
+  {
+    "solar": "body",
+    "emoji": "bust_in_silhouette",
+    "pixel": "human"
+  },
+  {
+    "solar": "body-shape",
+    "emoji": "bust_in_silhouette",
+    "pixel": "human"
+  },
+  {
+    "solar": "body-shape-minimalistic",
+    "emoji": "bust_in_silhouette",
+    "pixel": "human"
+  },
+  {
+    "solar": "bolt",
+    "emoji": "high_voltage",
+    "pixel": "zap"
+  },
+  {
+    "solar": "bolt-circle",
+    "emoji": "high_voltage",
+    "pixel": "zap"
+  },
+  {
+    "solar": "bomb",
+    "emoji": "bomb",
+    "pixel": "zap"
+  },
+  {
+    "solar": "bomb-emoji",
+    "emoji": "bomb",
+    "pixel": "zap"
+  },
+  {
+    "solar": "bomb-minimalistic",
+    "emoji": "bomb",
+    "pixel": "zap"
+  },
+  {
+    "solar": "bone",
+    "emoji": "bone",
+    "pixel": "more-horizontal"
+  },
+  {
+    "solar": "bone-broken",
+    "emoji": "bone",
+    "pixel": "more-horizontal"
+  },
+  {
+    "solar": "bone-crack",
+    "emoji": "bone",
+    "pixel": "more-horizontal"
+  },
+  {
+    "solar": "bones",
+    "emoji": "skull_and_crossbones",
+    "pixel": "more-horizontal"
+  },
+  {
+    "solar": "bonfire",
+    "emoji": "fire",
+    "pixel": "zap"
+  },
+  {
+    "solar": "book",
+    "emoji": "open_book",
+    "pixel": "book"
+  },
+  {
+    "solar": "book-2",
+    "emoji": "open_book",
+    "pixel": "book"
+  },
+  {
+    "solar": "book-bookmark",
+    "emoji": "open_book",
+    "pixel": "book"
+  },
+  {
+    "solar": "book-bookmark-minimalistic",
+    "emoji": "open_book",
+    "pixel": "book"
+  },
+  {
+    "solar": "book-minimalistic",
+    "emoji": "open_book",
+    "pixel": "book"
+  },
+  {
+    "solar": "bookmark",
+    "emoji": "bookmark",
+    "pixel": "bookmark"
+  },
+  {
+    "solar": "bookmark-circle",
+    "emoji": "bookmark",
+    "pixel": "bookmark"
+  },
+  {
+    "solar": "bookmark-opened",
+    "emoji": "bookmark",
+    "pixel": "bookmark"
+  },
+  {
+    "solar": "bookmark-square",
+    "emoji": "bookmark",
+    "pixel": "bookmark"
+  },
+  {
+    "solar": "bookmark-square-minimalistic",
+    "emoji": "bookmark",
+    "pixel": "bookmark"
+  },
+  {
+    "solar": "boombox",
+    "emoji": "radio",
+    "pixel": "speaker"
+  },
+  {
+    "solar": "bottle",
+    "emoji": "bottle_with_popping_cork",
+    "pixel": "drop-full"
+  },
+  {
+    "solar": "bowling",
+    "emoji": "bowling",
+    "pixel": "circle"
+  },
+  {
+    "solar": "box",
+    "emoji": "package",
+    "pixel": "archive"
+  },
+  {
+    "solar": "box-minimalistic",
+    "emoji": "package",
+    "pixel": "archive"
+  },
+  {
+    "solar": "branching-paths-down",
+    "emoji": "down_arrow",
+    "pixel": "git-branch"
+  },
+  {
+    "solar": "branching-paths-up",
+    "emoji": "up_arrow",
+    "pixel": "git-branch"
+  },
+  {
+    "solar": "broom",
+    "emoji": "broom",
+    "pixel": "trash"
+  },
+  {
+    "solar": "bug",
+    "emoji": "bug",
+    "pixel": "bug"
+  },
+  {
+    "solar": "bug-minimalistic",
+    "emoji": "bug",
+    "pixel": "bug"
+  },
+  {
+    "solar": "buildings",
+    "emoji": "office_building",
+    "pixel": "buildings"
+  },
+  {
+    "solar": "buildings-2",
+    "emoji": "office_building",
+    "pixel": "buildings"
+  },
+  {
+    "solar": "buildings-3",
+    "emoji": "cityscape",
+    "pixel": "building-skyscraper"
+  },
+  {
+    "solar": "bus",
+    "emoji": "bus",
+    "pixel": "bus"
+  },
+  {
+    "solar": "calculator",
+    "emoji": "abacus",
+    "pixel": "calculator"
+  },
+  {
+    "solar": "calculator-minimalistic",
+    "emoji": "abacus",
+    "pixel": "calculator"
+  },
+  {
+    "solar": "calendar",
+    "emoji": "calendar",
+    "pixel": "calendar"
+  },
+  {
+    "solar": "calendar-add",
+    "emoji": "calendar",
+    "pixel": "calendar-plus"
+  },
+  {
+    "solar": "calendar-date",
+    "emoji": "spiral_calendar",
+    "pixel": "calendar-grid"
+  },
+  {
+    "solar": "calendar-mark",
+    "emoji": "spiral_calendar",
+    "pixel": "calendar-alert"
+  },
+  {
+    "solar": "calendar-minimalistic",
+    "emoji": "calendar",
+    "pixel": "calendar"
+  },
+  {
+    "solar": "calendar-search",
+    "emoji": "spiral_calendar",
+    "pixel": "calendar-search"
+  },
+  {
+    "solar": "call-cancel",
+    "emoji": "cross_mark",
+    "pixel": "close"
+  },
+  {
+    "solar": "call-cancel-rounded",
+    "emoji": "cross_mark",
+    "pixel": "close"
+  },
+  {
+    "solar": "call-chat",
+    "emoji": "telephone_receiver",
+    "pixel": "chat"
+  },
+  {
+    "solar": "call-chat-rounded",
+    "emoji": "telephone_receiver",
+    "pixel": "chat"
+  },
+  {
+    "solar": "call-dropped",
+    "emoji": "mobile_phone_off",
+    "pixel": "missed-call"
+  },
+  {
+    "solar": "call-dropped-rounded",
+    "emoji": "mobile_phone_off",
+    "pixel": "missed-call"
+  },
+  {
+    "solar": "call-medicine",
+    "emoji": "telephone_receiver",
+    "pixel": "deskphone"
+  },
+  {
+    "solar": "call-medicine-rounded",
+    "emoji": "telephone_receiver",
+    "pixel": "deskphone"
+  },
+  {
+    "solar": "camera",
+    "emoji": "camera",
+    "pixel": "camera"
+  },
+  {
+    "solar": "camera-add",
+    "emoji": "camera_with_flash",
+    "pixel": "camera-add"
+  },
+  {
+    "solar": "camera-minimalistic",
+    "emoji": "camera",
+    "pixel": "camera-alt"
+  },
+  {
+    "solar": "camera-rotate",
+    "emoji": "camera",
+    "pixel": "camera-face"
+  },
+  {
+    "solar": "camera-square",
+    "emoji": "camera",
+    "pixel": "camera"
+  },
+  {
+    "solar": "card",
+    "emoji": "credit_card",
+    "pixel": "card"
+  },
+  {
+    "solar": "card-2",
+    "emoji": "credit_card",
+    "pixel": "card"
+  },
+  {
+    "solar": "card-recive",
+    "emoji": "credit_card",
+    "pixel": "card-plus"
+  },
+  {
+    "solar": "card-search",
+    "emoji": "credit_card",
+    "pixel": "card-id"
+  },
+  {
+    "solar": "card-send",
+    "emoji": "credit_card",
+    "pixel": "card-text"
+  },
+  {
+    "solar": "card-transfer",
+    "emoji": "credit_card",
+    "pixel": "card-stack"
+  },
+  {
+    "solar": "cardholder",
+    "emoji": "credit_card",
+    "pixel": "wallet"
+  },
+  {
+    "solar": "cart",
+    "emoji": "shopping_cart",
+    "pixel": "cart"
+  },
+  {
+    "solar": "cart-2",
+    "emoji": "shopping_cart",
+    "pixel": "cart"
+  },
+  {
+    "solar": "cart-3",
+    "emoji": "shopping_cart",
+    "pixel": "cart"
+  },
+  {
+    "solar": "cart-4",
+    "emoji": "shopping_cart",
+    "pixel": "cart"
+  },
+  {
+    "solar": "cart-5",
+    "emoji": "shopping_cart",
+    "pixel": "cart"
+  },
+  {
+    "solar": "cart-check",
+    "emoji": "shopping_cart",
+    "pixel": "cart"
+  },
+  {
+    "solar": "cart-cross",
+    "emoji": "shopping_cart",
+    "pixel": "cart"
+  },
+  {
+    "solar": "cart-large",
+    "emoji": "cart-large",
+    "pixel": "cart-large"
+  },
+  {
+    "solar": "cart-large-2",
+    "emoji": "cart-large",
+    "pixel": "cart-large"
+  },
+  {
+    "solar": "cart-large-3",
+    "emoji": "cart-large",
+    "pixel": "cart-large"
+  },
+  {
+    "solar": "cart-large-4",
+    "emoji": "cart-large",
+    "pixel": "cart-large"
+  },
+  {
+    "solar": "cart-large-minimalistic",
+    "emoji": "cart-large",
+    "pixel": "cart-large"
+  },
+  {
+    "solar": "cart-plus",
+    "emoji": "shopping_cart",
+    "pixel": "cart"
+  },
+  {
+    "solar": "case",
+    "emoji": "briefcase",
+    "pixel": "briefcase"
+  },
+  {
+    "solar": "case-minimalistic",
+    "emoji": "briefcase",
+    "pixel": "briefcase"
+  },
+  {
+    "solar": "case-round",
+    "emoji": "briefcase",
+    "pixel": "briefcase"
+  },
+  {
+    "solar": "case-round-minimalistic",
+    "emoji": "briefcase",
+    "pixel": "briefcase"
+  },
+  {
+    "solar": "cash-out",
+    "emoji": "dollar_banknote",
+    "pixel": "dollar"
+  },
+  {
+    "solar": "cassette",
+    "emoji": "videocassette",
+    "pixel": "play"
+  },
+  {
+    "solar": "cassette-2",
+    "emoji": "videocassette",
+    "pixel": "play"
+  },
+  {
+    "solar": "cat",
+    "emoji": "cat",
+    "pixel": "more-horizontal"
+  },
+  {
+    "solar": "chair",
+    "emoji": "chair",
+    "pixel": "more-horizontal"
+  },
+  {
+    "solar": "chair-2",
+    "emoji": "chair",
+    "pixel": "more-horizontal"
+  },
+  {
+    "solar": "chandelier",
+    "emoji": "candle",
+    "pixel": "lightbulb-on"
+  },
+  {
+    "solar": "chart",
+    "emoji": "bar_chart",
+    "pixel": "chart"
+  },
+  {
+    "solar": "chart-2",
+    "emoji": "bar_chart",
+    "pixel": "chart-bar"
+  },
+  {
+    "solar": "chart-square",
+    "emoji": "bar_chart",
+    "pixel": "chart-add"
+  },
+  {
+    "solar": "chat-dots",
+    "emoji": "speech_balloon",
+    "pixel": "message-text"
+  },
+  {
+    "solar": "chat-line",
+    "emoji": "speech_balloon",
+    "pixel": "message"
+  },
+  {
+    "solar": "chat-round",
+    "emoji": "speech_balloon",
+    "pixel": "message"
+  },
+  {
+    "solar": "chat-round-call",
+    "emoji": "telephone_receiver",
+    "pixel": "message"
+  },
+  {
+    "solar": "chat-round-check",
+    "emoji": "speech_balloon",
+    "pixel": "message"
+  },
+  {
+    "solar": "chat-round-dots",
+    "emoji": "speech_balloon",
+    "pixel": "message-processing"
+  },
+  {
+    "solar": "chat-round-like",
+    "emoji": "speech_balloon",
+    "pixel": "message-plus"
+  },
+  {
+    "solar": "chat-round-line",
+    "emoji": "speech_balloon",
+    "pixel": "message-text"
+  },
+  {
+    "solar": "chat-round-money",
+    "emoji": "speech_balloon",
+    "pixel": "message"
+  },
+  {
+    "solar": "chat-round-unread",
+    "emoji": "speech_balloon",
+    "pixel": "message"
+  },
+  {
+    "solar": "chat-round-video",
+    "emoji": "video_camera",
+    "pixel": "message"
+  },
+  {
+    "solar": "chat-square",
+    "emoji": "left_speech_bubble",
+    "pixel": "chat"
+  },
+  {
+    "solar": "chat-square-2",
+    "emoji": "left_speech_bubble",
+    "pixel": "chat"
+  },
+  {
+    "solar": "chat-square-arrow",
+    "emoji": "speech_balloon",
+    "pixel": "message-arrow-right"
+  },
+  {
+    "solar": "chat-square-call",
+    "emoji": "telephone_receiver",
+    "pixel": "chat"
+  },
+  {
+    "solar": "chat-square-check",
+    "emoji": "left_speech_bubble",
+    "pixel": "chat"
+  },
+  {
+    "solar": "chat-square-code",
+    "emoji": "left_speech_bubble",
+    "pixel": "code"
+  },
+  {
+    "solar": "chat-square-like",
+    "emoji": "left_speech_bubble",
+    "pixel": "chat"
+  },
+  {
+    "solar": "chat-unread",
+    "emoji": "speech_balloon",
+    "pixel": "message"
+  },
+  {
+    "solar": "check-circle",
+    "emoji": "check_mark_button",
+    "pixel": "checkbox-on"
+  },
+  {
+    "solar": "check-read",
+    "emoji": "check_mark",
+    "pixel": "check-double"
+  },
+  {
+    "solar": "check-square",
+    "emoji": "check_box_with_check",
+    "pixel": "checkbox-on"
+  },
+  {
+    "solar": "checklist",
+    "emoji": "check_mark_button",
+    "pixel": "checklist"
+  },
+  {
+    "solar": "checklist-minimalistic",
+    "emoji": "check_mark_button",
+    "pixel": "checklist"
+  },
+  {
+    "solar": "chef-hat",
+    "emoji": "cooking",
+    "pixel": "more-horizontal"
+  },
+  {
+    "solar": "chef-hat-heart",
+    "emoji": "cooking",
+    "pixel": "heart"
+  },
+  {
+    "solar": "chef-hat-minimalistic",
+    "emoji": "cooking",
+    "pixel": "more-horizontal"
+  },
+  {
+    "solar": "circle-bottom-down",
+    "emoji": "down_arrow",
+    "pixel": "arrow-down"
+  },
+  {
+    "solar": "circle-bottom-up",
+    "emoji": "up_arrow",
+    "pixel": "arrow-up"
+  },
+  {
+    "solar": "circle-top-down",
+    "emoji": "down_arrow",
+    "pixel": "arrow-down"
+  },
+  {
+    "solar": "circle-top-up",
+    "emoji": "up_arrow",
+    "pixel": "arrow-up"
+  },
+  {
+    "solar": "city",
+    "emoji": "cityscape",
+    "pixel": "building-skyscraper"
+  },
+  {
+    "solar": "clapperboard",
+    "emoji": "clapper_board",
+    "pixel": "movie"
+  },
+  {
+    "solar": "clapperboard-edit",
+    "emoji": "clapper_board",
+    "pixel": "edit"
+  },
+  {
+    "solar": "clapperboard-open",
+    "emoji": "clapper_board",
+    "pixel": "movie"
+  },
+  {
+    "solar": "clapperboard-open-play",
+    "emoji": "clapper_board",
+    "pixel": "play"
+  },
+  {
+    "solar": "clapperboard-play",
+    "emoji": "clapper_board",
+    "pixel": "play"
+  },
+  {
+    "solar": "clapperboard-text",
+    "emoji": "clapper_board",
+    "pixel": "movie"
+  },
+  {
+    "solar": "clipboard",
+    "emoji": "clipboard",
+    "pixel": "clipboard"
+  },
+  {
+    "solar": "clipboard-add",
+    "emoji": "clipboard",
+    "pixel": "clipboard"
+  },
+  {
+    "solar": "clipboard-check",
+    "emoji": "clipboard",
+    "pixel": "clipboard"
+  },
+  {
+    "solar": "clipboard-heart",
+    "emoji": "clipboard",
+    "pixel": "clipboard"
+  },
+  {
+    "solar": "clipboard-list",
+    "emoji": "clipboard",
+    "pixel": "checklist"
+  },
+  {
+    "solar": "clipboard-remove",
+    "emoji": "clipboard",
+    "pixel": "clipboard"
+  },
+  {
+    "solar": "clipboard-text",
+    "emoji": "clipboard",
+    "pixel": "clipboard"
+  },
+  {
+    "solar": "clock-circle",
+    "emoji": "alarm_clock",
+    "pixel": "clock"
+  },
+  {
+    "solar": "clock-square",
+    "emoji": "mantelpiece_clock",
+    "pixel": "clock"
+  },
+  {
+    "solar": "close-circle",
+    "emoji": "red_circle",
+    "pixel": "close"
+  },
+  {
+    "solar": "close-square",
+    "emoji": "cross_mark_button",
+    "pixel": "close-box"
+  },
+  {
+    "solar": "closet",
+    "emoji": "coat",
+    "pixel": "folder"
+  },
+  {
+    "solar": "closet-2",
+    "emoji": "coat",
+    "pixel": "folder"
+  },
+  {
+    "solar": "cloud",
+    "emoji": "cloud",
+    "pixel": "cloud"
+  },
+  {
+    "solar": "cloud-bolt",
+    "emoji": "cloud_with_lightning",
+    "pixel": "cloud"
+  },
+  {
+    "solar": "cloud-bolt-minimalistic",
+    "emoji": "cloud_with_lightning",
+    "pixel": "cloud"
+  },
+  {
+    "solar": "cloud-check",
+    "emoji": "cloud",
+    "pixel": "cloud-done"
+  },
+  {
+    "solar": "cloud-cross",
+    "emoji": "cloud",
+    "pixel": "cloud"
+  },
+  {
+    "solar": "cloud-download",
+    "emoji": "cloud_with_rain",
+    "pixel": "cloud-download"
+  },
+  {
+    "solar": "cloud-file",
+    "emoji": "cloud",
+    "pixel": "cloud"
+  },
+  {
+    "solar": "cloud-minus",
+    "emoji": "cloud",
+    "pixel": "cloud"
+  },
+  {
+    "solar": "cloud-plus",
+    "emoji": "cloud",
+    "pixel": "cloud"
+  },
+  {
+    "solar": "cloud-rain",
+    "emoji": "cloud_with_rain",
+    "pixel": "cloud"
+  },
+  {
+    "solar": "cloud-snowfall",
+    "emoji": "cloud_with_snow",
+    "pixel": "cloud"
+  },
+  {
+    "solar": "cloud-snowfall-minimalistic",
+    "emoji": "cloud_with_snow",
+    "pixel": "cloud"
+  },
+  {
+    "solar": "cloud-storage",
+    "emoji": "cloud",
+    "pixel": "cloud"
+  },
+  {
+    "solar": "cloud-storm",
+    "emoji": "cloud_with_lightning_and_rain",
+    "pixel": "cloud"
+  },
+  {
+    "solar": "cloud-sun",
+    "emoji": "sun_behind_cloud",
+    "pixel": "cloud-sun"
+  },
+  {
+    "solar": "cloud-sun-2",
+    "emoji": "sun_behind_cloud",
+    "pixel": "cloud-sun"
+  },
+  {
+    "solar": "cloud-upload",
+    "emoji": "cloud",
+    "pixel": "cloud-upload"
+  },
+  {
+    "solar": "cloud-waterdrop",
+    "emoji": "cloud_with_rain",
+    "pixel": "drop"
+  },
+  {
+    "solar": "cloud-waterdrops",
+    "emoji": "cloud_with_rain",
+    "pixel": "drop"
+  },
+  {
+    "solar": "clouds",
+    "emoji": "fog",
+    "pixel": "cloud"
+  },
+  {
+    "solar": "cloudy-moon",
+    "emoji": "cloud_with_rain",
+    "pixel": "cloud-moon"
+  },
+  {
+    "solar": "code",
+    "emoji": "input_symbols",
+    "pixel": "code"
+  },
+  {
+    "solar": "code-2",
+    "emoji": "input_symbols",
+    "pixel": "code"
+  },
+  {
+    "solar": "code-circle",
+    "emoji": "input_symbols",
+    "pixel": "code"
+  },
+  {
+    "solar": "code-file",
+    "emoji": "file-text",
+    "pixel": "file-text"
+  },
+  {
+    "solar": "code-scan",
+    "emoji": "magnifying_glass_tilted_right",
+    "pixel": "search"
+  },
+  {
+    "solar": "code-square",
+    "emoji": "input_symbols",
+    "pixel": "code"
+  },
+  {
+    "solar": "colour-tuneing",
+    "emoji": "artist_palette",
+    "pixel": "colors-swatch"
+  },
+  {
+    "solar": "command",
+    "emoji": "keyboard",
+    "pixel": "command"
+  },
+  {
+    "solar": "compass",
+    "emoji": "compass",
+    "pixel": "more-horizontal"
+  },
+  {
+    "solar": "compass-big",
+    "emoji": "compass",
+    "pixel": "more-horizontal"
+  },
+  {
+    "solar": "compass-square",
+    "emoji": "compass",
+    "pixel": "more-horizontal"
+  },
+  {
+    "solar": "condicioner",
+    "emoji": "snowflake",
+    "pixel": "ac"
+  },
+  {
+    "solar": "condicioner-2",
+    "emoji": "snowflake",
+    "pixel": "ac"
+  },
+  {
+    "solar": "confetti",
+    "emoji": "confetti_ball",
+    "pixel": "more-horizontal"
+  },
+  {
+    "solar": "confetti-minimalistic",
+    "emoji": "party_popper",
+    "pixel": "more-horizontal"
+  },
+  {
+    "solar": "confounded-circle",
+    "emoji": "confounded_face",
+    "pixel": "circle"
+  },
+  {
+    "solar": "confounded-square",
+    "emoji": "confounded_face",
+    "pixel": "close-box"
+  },
+  {
+    "solar": "copy",
+    "emoji": "clipboard",
+    "pixel": "copy"
+  },
+  {
+    "solar": "copyright",
+    "emoji": "copyright",
+    "pixel": "circle"
+  },
+  {
+    "solar": "corkscrew",
+    "emoji": "wrench",
+    "pixel": "more-horizontal"
+  },
+  {
+    "solar": "cosmetic",
+    "emoji": "lipstick",
+    "pixel": "more-horizontal"
+  },
+  {
+    "solar": "course-down",
+    "emoji": "down_arrow",
+    "pixel": "trending-down"
+  },
+  {
+    "solar": "course-up",
+    "emoji": "up_arrow",
+    "pixel": "trending-up"
+  },
+  {
+    "solar": "cpu",
+    "emoji": "gear",
+    "pixel": "more-horizontal"
+  },
+  {
+    "solar": "cpu-bolt",
+    "emoji": "high_voltage",
+    "pixel": "zap"
+  },
+  {
+    "solar": "creative-commons",
+    "emoji": "copyright",
+    "pixel": "circle"
+  },
+  {
+    "solar": "crop",
+    "emoji": "scissors",
+    "pixel": "crop"
+  },
+  {
+    "solar": "crop-minimalistic",
+    "emoji": "scissors",
+    "pixel": "crop"
+  },
+  {
+    "solar": "crown",
+    "emoji": "crown",
+    "pixel": "more-horizontal"
+  },
+  {
+    "solar": "crown-line",
+    "emoji": "crown",
+    "pixel": "more-horizontal"
+  },
+  {
+    "solar": "crown-minimalistic",
+    "emoji": "crown",
+    "pixel": "more-horizontal"
+  },
+  {
+    "solar": "crown-star",
+    "emoji": "crown",
+    "pixel": "star"
+  },
+  {
+    "solar": "cup",
+    "emoji": "cup_with_straw",
+    "pixel": "coffee"
+  },
+  {
+    "solar": "cup-first",
+    "emoji": "1st_place_medal",
+    "pixel": "trophy"
+  },
+  {
+    "solar": "cup-hot",
+    "emoji": "hot_beverage",
+    "pixel": "coffee"
+  },
+  {
+    "solar": "cup-music",
+    "emoji": "musical_note",
+    "pixel": "music"
+  },
+  {
+    "solar": "cup-paper",
+    "emoji": "cup_with_straw",
+    "pixel": "coffee-alt"
+  },
+  {
+    "solar": "cup-star",
+    "emoji": "glowing_star",
+    "pixel": "star"
+  },
+  {
+    "solar": "cursor",
+    "emoji": "computer_mouse",
+    "pixel": "edit"
+  },
+  {
+    "solar": "cursor-square",
+    "emoji": "computer_mouse",
+    "pixel": "edit-box"
+  },
+  {
+    "solar": "danger",
+    "emoji": "warning",
+    "pixel": "alert"
+  },
+  {
+    "solar": "danger-circle",
+    "emoji": "warning",
+    "pixel": "alert"
+  },
+  {
+    "solar": "danger-square",
+    "emoji": "warning",
+    "pixel": "warning-box"
+  },
+  {
+    "solar": "danger-triangle",
+    "emoji": "warning",
+    "pixel": "alert"
+  },
+  {
+    "solar": "database",
+    "emoji": "card_file_box",
+    "pixel": "server"
+  },
+  {
+    "solar": "delivery",
+    "emoji": "delivery_truck",
+    "pixel": "truck"
+  },
+  {
+    "solar": "devices",
+    "emoji": "desktop_computer",
+    "pixel": "devices"
+  },
+  {
+    "solar": "diagram-down",
+    "emoji": "chart_decreasing",
+    "pixel": "trending-down"
+  },
+  {
+    "solar": "diagram-up",
+    "emoji": "chart_increasing",
+    "pixel": "trending-up"
+  },
+  {
+    "solar": "dialog",
+    "emoji": "speech_balloon",
+    "pixel": "message"
+  },
+  {
+    "solar": "dialog-2",
+    "emoji": "left_speech_bubble",
+    "pixel": "message-text"
+  },
+  {
+    "solar": "diploma",
+    "emoji": "scroll",
+    "pixel": "note"
+  },
+  {
+    "solar": "diploma-verified",
+    "emoji": "graduation_cap",
+    "pixel": "note"
+  },
+  {
+    "solar": "diskette",
+    "emoji": "floppy_disk",
+    "pixel": "save"
+  },
+  {
+    "solar": "dislike",
+    "emoji": "black_circle",
+    "pixel": "mood-sad"
+  },
+  {
+    "solar": "display",
+    "emoji": "television",
+    "pixel": "monitor"
+  },
+  {
+    "solar": "dna",
+    "emoji": "dna",
+    "pixel": "more-horizontal"
+  },
+  {
+    "solar": "document",
+    "emoji": "page_facing_up",
+    "pixel": "file"
+  },
+  {
+    "solar": "document-add",
+    "emoji": "page_facing_up",
+    "pixel": "file-plus"
+  },
+  {
+    "solar": "document-medicine",
+    "emoji": "pill",
+    "pixel": "file"
+  },
+  {
+    "solar": "document-text",
+    "emoji": "page_with_curl",
+    "pixel": "file-text"
+  },
+  {
+    "solar": "documents",
+    "emoji": "books",
+    "pixel": "file-multiple"
+  },
+  {
+    "solar": "documents-minimalistic",
+    "emoji": "notebook",
+    "pixel": "file-alt"
+  },
+  {
+    "solar": "dollar",
+    "emoji": "dollar_banknote",
+    "pixel": "dollar"
+  },
+  {
+    "solar": "dollar-minimalistic",
+    "emoji": "heavy_dollar_sign",
+    "pixel": "dollar"
+  },
+  {
+    "solar": "donut",
+    "emoji": "doughnut",
+    "pixel": "circle"
+  },
+  {
+    "solar": "donut-bitten",
+    "emoji": "doughnut",
+    "pixel": "circle"
+  },
+  {
+    "solar": "double-alt-arrow-down",
+    "emoji": "fast_down_button",
+    "pixel": "arrow-down"
+  },
+  {
+    "solar": "double-alt-arrow-left",
+    "emoji": "back_arrow",
+    "pixel": "arrow-left"
+  },
+  {
+    "solar": "double-alt-arrow-right",
+    "emoji": "fast_reverse_button",
+    "pixel": "arrow-right"
+  },
+  {
+    "solar": "double-alt-arrow-up",
+    "emoji": "fast_up_button",
+    "pixel": "arrow-up"
+  },
+  {
+    "solar": "download",
+    "emoji": "download",
+    "pixel": "download"
+  },
+  {
+    "solar": "download-minimalistic",
+    "emoji": "download",
+    "pixel": "download"
+  },
+  {
+    "solar": "download-square",
+    "emoji": "download",
+    "pixel": "arrow-down-box"
+  },
+  {
+    "solar": "download-twice-square",
+    "emoji": "download",
+    "pixel": "arrow-down-box"
+  },
+  {
+    "solar": "dropper",
+    "emoji": "droplet",
+    "pixel": "drop"
+  },
+  {
+    "solar": "dropper-2",
+    "emoji": "droplet",
+    "pixel": "drop-half"
+  },
+  {
+    "solar": "dropper-3",
+    "emoji": "droplet",
+    "pixel": "drop-full"
+  },
+  {
+    "solar": "dropper-minimalistic",
+    "emoji": "droplet",
+    "pixel": "drop"
+  },
+  {
+    "solar": "dropper-minimalistic-2",
+    "emoji": "droplet",
+    "pixel": "drop-area"
+  },
+  {
+    "solar": "dumbbell",
+    "emoji": "person_wrestling",
+    "pixel": "human-handsup"
+  },
+  {
+    "solar": "dumbbell-large",
+    "emoji": "person_wrestling",
+    "pixel": "human-handsup"
+  },
+  {
+    "solar": "dumbbell-large-minimalistic",
+    "emoji": "person_wrestling",
+    "pixel": "human-handsup"
+  },
+  {
+    "solar": "dumbbell-small",
+    "emoji": "person_wrestling",
+    "pixel": "human-handsup"
+  },
+  {
+    "solar": "dumbbells",
+    "emoji": "person_wrestling",
+    "pixel": "human-handsup"
+  },
+  {
+    "solar": "dumbbells-2",
+    "emoji": "person_wrestling",
+    "pixel": "human-handsup"
+  },
+  {
+    "solar": "earth",
+    "emoji": "globe_with_meridians",
+    "pixel": "cloud"
+  },
+  {
+    "solar": "electric-refueling",
+    "emoji": "electric_plug",
+    "pixel": "zap"
+  },
+  {
+    "solar": "emoji-funny-circle",
+    "emoji": "grinning_face",
+    "pixel": "mood-happy"
+  },
+  {
+    "solar": "emoji-funny-square",
+    "emoji": "grinning_face",
+    "pixel": "mood-happy"
+  },
+  {
+    "solar": "end-call",
+    "emoji": "telephone_receiver",
+    "pixel": "missed-call"
+  },
+  {
+    "solar": "end-call-rounded",
+    "emoji": "telephone_receiver",
+    "pixel": "missed-call"
+  },
+  {
+    "solar": "eraser",
+    "emoji": "pencil",
+    "pixel": "delete"
+  },
+  {
+    "solar": "eraser-circle",
+    "emoji": "pencil",
+    "pixel": "delete"
+  },
+  {
+    "solar": "eraser-square",
+    "emoji": "pencil",
+    "pixel": "remove-box"
+  },
+  {
+    "solar": "euro",
+    "emoji": "euro_banknote",
+    "pixel": "euro"
+  },
+  {
+    "solar": "exit",
+    "emoji": "door",
+    "pixel": "logout"
+  },
+  {
+    "solar": "explicit",
+    "emoji": "no_entry",
+    "pixel": "warning-box"
+  },
+  {
+    "solar": "export",
+    "emoji": "outbox_tray",
+    "pixel": "upload"
+  },
+  {
+    "solar": "expressionless-circle",
+    "emoji": "expressionless_face",
+    "pixel": "mood-neutral"
+  },
+  {
+    "solar": "expressionless-square",
+    "emoji": "expressionless_face",
+    "pixel": "mood-neutral"
+  },
+  {
+    "solar": "eye",
+    "emoji": "eye",
+    "pixel": "eye"
+  },
+  {
+    "solar": "eye-closed",
+    "emoji": "white_square_button",
+    "pixel": "eye-closed"
+  },
+  {
+    "solar": "eye-scan",
+    "emoji": "eye",
+    "pixel": "eye"
+  },
+  {
+    "solar": "face-scan-circle",
+    "emoji": "face_with_monocle",
+    "pixel": "camera-face"
+  },
+  {
+    "solar": "face-scan-square",
+    "emoji": "face_with_monocle",
+    "pixel": "camera-face"
+  },
+  {
+    "solar": "facemask-circle",
+    "emoji": "face_with_medical_mask",
+    "pixel": "circle"
+  },
+  {
+    "solar": "facemask-square",
+    "emoji": "face_with_medical_mask",
+    "pixel": "circle"
+  },
+  {
+    "solar": "feed",
+    "emoji": "newspaper",
+    "pixel": "bulletlist"
+  },
+  {
+    "solar": "ferris-wheel",
+    "emoji": "ferris_wheel",
+    "pixel": "circle"
+  },
+  {
+    "solar": "figma",
+    "emoji": "sparkle",
+    "pixel": "star"
+  },
+  {
+    "solar": "figma-file",
+    "emoji": "sparkle",
+    "pixel": "file"
+  },
+  {
+    "solar": "file",
+    "emoji": "page_facing_up",
+    "pixel": "file"
+  },
+  {
+    "solar": "file-check",
+    "emoji": "check_mark_button",
+    "pixel": "file"
+  },
+  {
+    "solar": "file-corrupted",
+    "emoji": "cross_mark",
+    "pixel": "file-delete"
+  },
+  {
+    "solar": "file-download",
+    "emoji": "page_facing_up",
+    "pixel": "file"
+  },
+  {
+    "solar": "file-favourite",
+    "emoji": "bookmark",
+    "pixel": "bookmark"
+  },
+  {
+    "solar": "file-left",
+    "emoji": "page_facing_up",
+    "pixel": "file"
+  },
+  {
+    "solar": "file-remove",
+    "emoji": "cross_mark",
+    "pixel": "file-minus"
+  },
+  {
+    "solar": "file-right",
+    "emoji": "page_facing_up",
+    "pixel": "file"
+  },
+  {
+    "solar": "file-send",
+    "emoji": "envelope",
+    "pixel": "mail-arrow-right"
+  },
+  {
+    "solar": "file-smile",
+    "emoji": "smiling_face",
+    "pixel": "file"
+  },
+  {
+    "solar": "file-text",
+    "emoji": "page_with_curl",
+    "pixel": "file-text"
+  },
+  {
+    "solar": "filter",
+    "emoji": "control_knobs",
+    "pixel": "sliders"
+  },
+  {
+    "solar": "filters",
+    "emoji": "control_knobs",
+    "pixel": "sliders-2"
+  },
+  {
+    "solar": "fire",
+    "emoji": "fire",
+    "pixel": "zap"
+  },
+  {
+    "solar": "fire-minimalistic",
+    "emoji": "fire",
+    "pixel": "zap"
+  },
+  {
+    "solar": "fire-square",
+    "emoji": "fire",
+    "pixel": "warning-box"
+  },
+  {
+    "solar": "flag",
+    "emoji": "triangular_flag",
+    "pixel": "flag"
+  },
+  {
+    "solar": "flag-2",
+    "emoji": "white_flag",
+    "pixel": "flag"
+  },
+  {
+    "solar": "flame",
+    "emoji": "fire",
+    "pixel": "zap"
+  },
+  {
+    "solar": "flash-drive",
+    "emoji": "computer_disk",
+    "pixel": "save"
+  },
+  {
+    "solar": "flashlight",
+    "emoji": "flashlight",
+    "pixel": "lightbulb-on"
+  },
+  {
+    "solar": "flashlight-on",
+    "emoji": "flashlight",
+    "pixel": "lightbulb-on"
+  },
+  {
+    "solar": "flip-horizontal",
+    "emoji": "counterclockwise_arrows_button",
+    "pixel": "scroll-horizontal"
+  },
+  {
+    "solar": "flip-vertical",
+    "emoji": "clockwise_vertical_arrows",
+    "pixel": "scroll-vertical"
+  },
+  {
+    "solar": "floor-lamp",
+    "emoji": "light_bulb",
+    "pixel": "lightbulb"
+  },
+  {
+    "solar": "floor-lamp-minimalistic",
+    "emoji": "light_bulb",
+    "pixel": "lightbulb-2"
+  },
+  {
+    "solar": "fog",
+    "emoji": "fog",
+    "pixel": "wind"
+  },
+  {
+    "solar": "folder",
+    "emoji": "file_folder",
+    "pixel": "folder"
+  },
+  {
+    "solar": "folder-2",
+    "emoji": "open_file_folder",
+    "pixel": "folder-plus"
+  },
+  {
+    "solar": "folder-check",
+    "emoji": "file_folder",
+    "pixel": "folder"
+  },
+  {
+    "solar": "folder-cloud",
+    "emoji": "cloud",
+    "pixel": "cloud"
+  },
+  {
+    "solar": "folder-error",
+    "emoji": "file_folder",
+    "pixel": "folder-x"
+  },
+  {
+    "solar": "folder-favourite-bookmark",
+    "emoji": "bookmark",
+    "pixel": "bookmark"
+  },
+  {
+    "solar": "folder-favourite-star",
+    "emoji": "star",
+    "pixel": "star"
+  },
+  {
+    "solar": "folder-open",
+    "emoji": "open_file_folder",
+    "pixel": "open"
+  },
+  {
+    "solar": "folder-path-connect",
+    "emoji": "link",
+    "pixel": "link"
+  },
+  {
+    "solar": "folder-security",
+    "emoji": "shield",
+    "pixel": "shield"
+  },
+  {
+    "solar": "folder-with-files",
+    "emoji": "file_cabinet",
+    "pixel": "folder"
+  },
+  {
+    "solar": "football",
+    "emoji": "american_football",
+    "pixel": "bullseye"
+  },
+  {
+    "solar": "forbidden",
+    "emoji": "prohibited",
+    "pixel": "close-box"
+  },
+  {
+    "solar": "forbidden-circle",
+    "emoji": "no_entry",
+    "pixel": "close"
+  },
+  {
+    "solar": "forward",
+    "emoji": "next_track_button",
+    "pixel": "next"
+  },
+  {
+    "solar": "forward-2",
+    "emoji": "fast_reverse_button",
+    "pixel": "forward"
+  },
+  {
+    "solar": "fridge",
+    "emoji": "door",
+    "pixel": "circle"
+  },
+  {
+    "solar": "fuel",
+    "emoji": "fuel_pump",
+    "pixel": "more-horizontal"
+  },
+  {
+    "solar": "full-screen",
+    "emoji": "white_large_square",
+    "pixel": "expand"
+  },
+  {
+    "solar": "full-screen-circle",
+    "emoji": "white_circle",
+    "pixel": "circle"
+  },
+  {
+    "solar": "full-screen-square",
+    "emoji": "white_large_square",
+    "pixel": "expand"
+  },
+  {
+    "solar": "gallery",
+    "emoji": "framed_picture",
+    "pixel": "image"
+  },
+  {
+    "solar": "gallery-add",
+    "emoji": "framed_picture",
+    "pixel": "image-new"
+  },
+  {
+    "solar": "gallery-check",
+    "emoji": "framed_picture",
+    "pixel": "image"
+  },
+  {
+    "solar": "gallery-circle",
+    "emoji": "framed_picture",
+    "pixel": "image"
+  },
+  {
+    "solar": "gallery-download",
+    "emoji": "framed_picture",
+    "pixel": "image-arrow-right"
+  },
+  {
+    "solar": "gallery-edit",
+    "emoji": "framed_picture",
+    "pixel": "edit"
+  },
+  {
+    "solar": "gallery-favourite",
+    "emoji": "framed_picture",
+    "pixel": "bookmark"
+  },
+  {
+    "solar": "gallery-minimalistic",
+    "emoji": "framed_picture",
+    "pixel": "image"
+  },
+  {
+    "solar": "gallery-remove",
+    "emoji": "framed_picture",
+    "pixel": "image-delete"
+  },
+  {
+    "solar": "gallery-round",
+    "emoji": "framed_picture",
+    "pixel": "image-frame"
+  },
+  {
+    "solar": "gallery-send",
+    "emoji": "framed_picture",
+    "pixel": "image-arrow-right"
+  },
+  {
+    "solar": "gallery-wide",
+    "emoji": "framed_picture",
+    "pixel": "image-gallery"
+  },
+  {
+    "solar": "gameboy",
+    "emoji": "video_game",
+    "pixel": "gamepad"
+  },
+  {
+    "solar": "gamepad",
+    "emoji": "video_game",
+    "pixel": "gamepad"
+  },
+  {
+    "solar": "gamepad-charge",
+    "emoji": "video_game",
+    "pixel": "gamepad"
+  },
+  {
+    "solar": "gamepad-minimalistic",
+    "emoji": "video_game",
+    "pixel": "gamepad"
+  },
+  {
+    "solar": "gamepad-no-charge",
+    "emoji": "video_game",
+    "pixel": "gamepad"
+  },
+  {
+    "solar": "gamepad-old",
+    "emoji": "video_game",
+    "pixel": "gamepad"
+  },
+  {
+    "solar": "garage",
+    "emoji": "house",
+    "pixel": "home"
+  },
+  {
+    "solar": "gas-station",
+    "emoji": "fuel_pump",
+    "pixel": "more-horizontal"
+  },
+  {
+    "solar": "ghost",
+    "emoji": "ghost",
+    "pixel": "circle"
+  },
+  {
+    "solar": "ghost-smile",
+    "emoji": "ghost",
+    "pixel": "mood-happy"
+  },
+  {
+    "solar": "gift",
+    "emoji": "wrapped_gift",
+    "pixel": "gift"
+  },
+  {
+    "solar": "glasses",
+    "emoji": "glasses",
+    "pixel": "more-horizontal"
+  },
+  {
+    "solar": "global",
+    "emoji": "globe_with_meridians",
+    "pixel": "cloud"
+  },
+  {
+    "solar": "globus",
+    "emoji": "globe_showing_americas",
+    "pixel": "cloud"
+  },
+  {
+    "solar": "golf",
+    "emoji": "flag_in_hole",
+    "pixel": "bullseye-arrow"
+  },
+  {
+    "solar": "gps",
+    "emoji": "round_pushpin",
+    "pixel": "gps"
+  },
+  {
+    "solar": "graph",
+    "emoji": "bar_chart",
+    "pixel": "chart"
+  },
+  {
+    "solar": "graph-down",
+    "emoji": "chart_decreasing",
+    "pixel": "trending-down"
+  },
+  {
+    "solar": "graph-down-new",
+    "emoji": "chart_decreasing",
+    "pixel": "trending-down"
+  },
+  {
+    "solar": "graph-new",
+    "emoji": "bar_chart",
+    "pixel": "chart-add"
+  },
+  {
+    "solar": "graph-new-up",
+    "emoji": "chart_increasing",
+    "pixel": "trending-up"
+  },
+  {
+    "solar": "graph-up",
+    "emoji": "chart_increasing",
+    "pixel": "trending-up"
+  },
+  {
+    "solar": "hamburger-menu",
+    "emoji": "hamburger-menu",
+    "pixel": "hamburger-menu"
+  },
+  {
+    "solar": "hand-heart",
+    "emoji": "heart",
+    "pixel": "heart"
+  },
+  {
+    "solar": "hand-money",
+    "emoji": "money_with_wings",
+    "pixel": "money"
+  },
+  {
+    "solar": "hand-pills",
+    "emoji": "pill",
+    "pixel": "more-horizontal"
+  },
+  {
+    "solar": "hand-shake",
+    "emoji": "handshake",
+    "pixel": "human-handsup"
+  },
+  {
+    "solar": "hand-stars",
+    "emoji": "glowing_star",
+    "pixel": "star"
+  },
+  {
+    "solar": "hanger",
+    "emoji": "coat",
+    "pixel": "more-horizontal"
+  },
+  {
+    "solar": "hanger-2",
+    "emoji": "coat",
+    "pixel": "more-horizontal"
+  },
+  {
+    "solar": "hashtag",
+    "emoji": "keycap_hashtag",
+    "pixel": "more-horizontal"
+  },
+  {
+    "solar": "hashtag-chat",
+    "emoji": "keycap_hashtag",
+    "pixel": "message"
+  },
+  {
+    "solar": "hashtag-circle",
+    "emoji": "keycap_hashtag",
+    "pixel": "circle"
+  },
+  {
+    "solar": "hashtag-square",
+    "emoji": "keycap_hashtag",
+    "pixel": "add-box"
+  },
+  {
+    "solar": "headphones-round",
+    "emoji": "headphone",
+    "pixel": "headphone"
+  },
+  {
+    "solar": "headphones-round-sound",
+    "emoji": "headphone",
+    "pixel": "headset"
+  },
+  {
+    "solar": "headphones-square",
+    "emoji": "headphone",
+    "pixel": "headphone"
+  },
+  {
+    "solar": "headphones-square-sound",
+    "emoji": "headphone",
+    "pixel": "headset"
+  },
+  {
+    "solar": "health",
+    "emoji": "medical_symbol",
+    "pixel": "heart"
+  },
+  {
+    "solar": "heart",
+    "emoji": "heart",
+    "pixel": "heart"
+  },
+  {
+    "solar": "heart-angle",
+    "emoji": "heart",
+    "pixel": "heart"
+  },
+  {
+    "solar": "heart-broken",
+    "emoji": "broken_heart",
+    "pixel": "heart"
+  },
+  {
+    "solar": "heart-lock",
+    "emoji": "locked_with_key",
+    "pixel": "lock"
+  },
+  {
+    "solar": "heart-pulse",
+    "emoji": "anatomical_heart",
+    "pixel": "heart"
+  },
+  {
+    "solar": "heart-pulse-2",
+    "emoji": "anatomical_heart",
+    "pixel": "heart"
+  },
+  {
+    "solar": "heart-shine",
+    "emoji": "sparkling_heart",
+    "pixel": "heart"
+  },
+  {
+    "solar": "heart-unlock",
+    "emoji": "heart",
+    "pixel": "lock-open"
+  },
+  {
+    "solar": "hearts",
+    "emoji": "two_hearts",
+    "pixel": "heart"
+  },
+  {
+    "solar": "help",
+    "emoji": "white_question_mark",
+    "pixel": "info-box"
+  },
+  {
+    "solar": "high-definition",
+    "emoji": "sparkle",
+    "pixel": "hd"
+  },
+  {
+    "solar": "high-quality",
+    "emoji": "sparkle",
+    "pixel": "hq"
+  },
+  {
+    "solar": "hiking",
+    "emoji": "hiking_boot",
+    "pixel": "human-run"
+  },
+  {
+    "solar": "hiking-minimalistic",
+    "emoji": "hiking_boot",
+    "pixel": "human-run"
+  },
+  {
+    "solar": "hiking-round",
+    "emoji": "hiking_boot",
+    "pixel": "human-run"
+  },
+  {
+    "solar": "history",
+    "emoji": "counterclockwise_arrows_button",
+    "pixel": "reload"
+  },
+  {
+    "solar": "history-2",
+    "emoji": "counterclockwise_arrows_button",
+    "pixel": "undo"
+  },
+  {
+    "solar": "history-3",
+    "emoji": "counterclockwise_arrows_button",
+    "pixel": "timeline"
+  },
+  {
+    "solar": "home",
+    "emoji": "house",
+    "pixel": "home"
+  },
+  {
+    "solar": "home-2",
+    "emoji": "house",
+    "pixel": "home"
+  },
+  {
+    "solar": "home-add",
+    "emoji": "house",
+    "pixel": "home"
+  },
+  {
+    "solar": "home-add-angle",
+    "emoji": "house",
+    "pixel": "home"
+  },
+  {
+    "solar": "home-angle",
+    "emoji": "house",
+    "pixel": "home"
+  },
+  {
+    "solar": "home-angle-2",
+    "emoji": "house",
+    "pixel": "home"
+  },
+  {
+    "solar": "home-smile",
+    "emoji": "house_with_garden",
+    "pixel": "home"
+  },
+  {
+    "solar": "home-smile-angle",
+    "emoji": "house_with_garden",
+    "pixel": "home"
+  },
+  {
+    "solar": "home-wifi",
+    "emoji": "house",
+    "pixel": "home"
+  },
+  {
+    "solar": "home-wifi-angle",
+    "emoji": "house",
+    "pixel": "home"
+  },
+  {
+    "solar": "hospital",
+    "emoji": "hospital",
+    "pixel": "building"
+  },
+  {
+    "solar": "hourglass",
+    "emoji": "hourglass_not_done",
+    "pixel": "hourglass"
+  },
+  {
+    "solar": "hourglass-line",
+    "emoji": "hourglass_done",
+    "pixel": "hourglass"
+  },
+  {
+    "solar": "import",
+    "emoji": "inbox_tray",
+    "pixel": "download"
+  },
+  {
+    "solar": "inbox",
+    "emoji": "inbox_tray",
+    "pixel": "inbox"
+  },
+  {
+    "solar": "inbox-archive",
+    "emoji": "inbox_tray",
+    "pixel": "archive"
+  },
+  {
+    "solar": "inbox-in",
+    "emoji": "inbox_tray",
+    "pixel": "inbox"
+  },
+  {
+    "solar": "inbox-line",
+    "emoji": "inbox_tray",
+    "pixel": "inbox"
+  },
+  {
+    "solar": "inbox-out",
+    "emoji": "outbox_tray",
+    "pixel": "inbox-full"
+  },
+  {
+    "solar": "inbox-unread",
+    "emoji": "incoming_envelope",
+    "pixel": "inbox-all"
+  },
+  {
+    "solar": "incognito",
+    "emoji": "disguised_face",
+    "pixel": "hidden"
+  },
+  {
+    "solar": "incoming-call",
+    "emoji": "telephone_receiver",
+    "pixel": "missed-call"
+  },
+  {
+    "solar": "incoming-call-rounded",
+    "emoji": "telephone_receiver",
+    "pixel": "missed-call"
+  },
+  {
+    "solar": "infinity",
+    "emoji": "infinity",
+    "pixel": "more-horizontal"
+  },
+  {
+    "solar": "info-circle",
+    "emoji": "information",
+    "pixel": "info-box"
+  },
+  {
+    "solar": "info-square",
+    "emoji": "information",
+    "pixel": "info-box"
+  },
+  {
+    "solar": "iphone",
+    "emoji": "mobile_phone",
+    "pixel": "device-phone"
+  },
+  {
+    "solar": "jar-of-pills",
+    "emoji": "pill",
+    "pixel": "more-horizontal"
+  },
+  {
+    "solar": "jar-of-pills-2",
+    "emoji": "pill",
+    "pixel": "more-horizontal"
+  },
+  {
+    "solar": "key",
+    "emoji": "key",
+    "pixel": "more-horizontal"
+  },
+  {
+    "solar": "key-minimalistic",
+    "emoji": "key",
+    "pixel": "more-horizontal"
+  },
+  {
+    "solar": "key-minimalistic-2",
+    "emoji": "key",
+    "pixel": "more-horizontal"
+  },
+  {
+    "solar": "key-minimalistic-square",
+    "emoji": "key",
+    "pixel": "more-horizontal"
+  },
+  {
+    "solar": "key-minimalistic-square-2",
+    "emoji": "key",
+    "pixel": "more-horizontal"
+  },
+  {
+    "solar": "key-minimalistic-square-3",
+    "emoji": "key",
+    "pixel": "more-horizontal"
+  },
+  {
+    "solar": "key-square",
+    "emoji": "key",
+    "pixel": "more-horizontal"
+  },
+  {
+    "solar": "key-square-2",
+    "emoji": "key",
+    "pixel": "more-horizontal"
+  },
+  {
+    "solar": "keyboard",
+    "emoji": "keyboard",
+    "pixel": "keyboard"
+  },
+  {
+    "solar": "kick-scooter",
+    "emoji": "kick_scooter",
+    "pixel": "more-horizontal"
+  },
+  {
+    "solar": "ladle",
+    "emoji": "cooking",
+    "pixel": "more-horizontal"
+  },
+  {
+    "solar": "lamp",
+    "emoji": "light_bulb",
+    "pixel": "lightbulb"
+  },
+  {
+    "solar": "laptop",
+    "emoji": "laptop",
+    "pixel": "device-laptop"
+  },
+  {
+    "solar": "laptop-2",
+    "emoji": "laptop",
+    "pixel": "device-laptop"
+  },
+  {
+    "solar": "laptop-3",
+    "emoji": "laptop",
+    "pixel": "device-laptop"
+  },
+  {
+    "solar": "laptop-minimalistic",
+    "emoji": "laptop",
+    "pixel": "device-laptop"
+  },
+  {
+    "solar": "layers",
+    "emoji": "card_index_dividers",
+    "pixel": "layout"
+  },
+  {
+    "solar": "layers-minimalistic",
+    "emoji": "card_index_dividers",
+    "pixel": "layout"
+  },
+  {
+    "solar": "leaf",
+    "emoji": "leaf_fluttering_in_wind",
+    "pixel": "sun-alt"
+  },
+  {
+    "solar": "letter",
+    "emoji": "envelope",
+    "pixel": "mail"
+  },
+  {
+    "solar": "letter-opened",
+    "emoji": "envelope_with_arrow",
+    "pixel": "mail"
+  },
+  {
+    "solar": "letter-unread",
+    "emoji": "incoming_envelope",
+    "pixel": "mail-unread"
+  },
+  {
+    "solar": "library",
+    "emoji": "books",
+    "pixel": "book"
+  },
+  {
+    "solar": "lightbulb",
+    "emoji": "light_bulb",
+    "pixel": "lightbulb"
+  },
+  {
+    "solar": "lightbulb-bolt",
+    "emoji": "light_bulb",
+    "pixel": "lightbulb-on"
+  },
+  {
+    "solar": "lightbulb-minimalistic",
+    "emoji": "light_bulb",
+    "pixel": "lightbulb"
+  },
+  {
+    "solar": "lightning",
+    "emoji": "high_voltage",
+    "pixel": "zap"
+  },
+  {
+    "solar": "like",
+    "emoji": "heart",
+    "pixel": "heart"
+  },
+  {
+    "solar": "link",
+    "emoji": "link",
+    "pixel": "link"
+  },
+  {
+    "solar": "link-broken",
+    "emoji": "broken_chain",
+    "pixel": "unlink"
+  },
+  {
+    "solar": "link-broken-minimalistic",
+    "emoji": "broken_chain",
+    "pixel": "unlink"
+  },
+  {
+    "solar": "link-circle",
+    "emoji": "link",
+    "pixel": "link"
+  },
+  {
+    "solar": "link-minimalistic",
+    "emoji": "link",
+    "pixel": "link"
+  },
+  {
+    "solar": "link-minimalistic-2",
+    "emoji": "link",
+    "pixel": "link"
+  },
+  {
+    "solar": "link-round",
+    "emoji": "link",
+    "pixel": "link"
+  },
+  {
+    "solar": "link-round-angle",
+    "emoji": "link",
+    "pixel": "link"
+  },
+  {
+    "solar": "link-square",
+    "emoji": "link",
+    "pixel": "link"
+  },
+  {
+    "solar": "list",
+    "emoji": "clipboard",
+    "pixel": "list"
+  },
+  {
+    "solar": "list-arrow-down",
+    "emoji": "clipboard",
+    "pixel": "list"
+  },
+  {
+    "solar": "list-arrow-down-minimalistic",
+    "emoji": "clipboard",
+    "pixel": "list"
+  },
+  {
+    "solar": "list-arrow-up",
+    "emoji": "clipboard",
+    "pixel": "list"
+  },
+  {
+    "solar": "list-arrow-up-minimalistic",
+    "emoji": "clipboard",
+    "pixel": "list"
+  },
+  {
+    "solar": "list-check",
+    "emoji": "check_mark_button",
+    "pixel": "checklist"
+  },
+  {
+    "solar": "list-check-minimalistic",
+    "emoji": "check_mark_button",
+    "pixel": "checklist"
+  },
+  {
+    "solar": "list-cross",
+    "emoji": "cross_mark",
+    "pixel": "list"
+  },
+  {
+    "solar": "list-cross-minimalistic",
+    "emoji": "cross_mark",
+    "pixel": "list"
+  },
+  {
+    "solar": "list-down",
+    "emoji": "clipboard",
+    "pixel": "list"
+  },
+  {
+    "solar": "list-down-minimalistic",
+    "emoji": "clipboard",
+    "pixel": "list"
+  },
+  {
+    "solar": "list-heart",
+    "emoji": "heart",
+    "pixel": "list"
+  },
+  {
+    "solar": "list-heart-minimalistic",
+    "emoji": "heart",
+    "pixel": "list"
+  },
+  {
+    "solar": "list-up",
+    "emoji": "clipboard",
+    "pixel": "list"
+  },
+  {
+    "solar": "list-up-minimalistic",
+    "emoji": "clipboard",
+    "pixel": "list"
+  },
+  {
+    "solar": "lock",
+    "emoji": "locked",
+    "pixel": "lock"
+  },
+  {
+    "solar": "lock-keyhole",
+    "emoji": "locked_with_key",
+    "pixel": "lock"
+  },
+  {
+    "solar": "lock-keyhole-minimalistic",
+    "emoji": "locked_with_key",
+    "pixel": "lock"
+  },
+  {
+    "solar": "lock-keyhole-minimalistic-unlocked",
+    "emoji": "unlocked",
+    "pixel": "lock-open"
+  },
+  {
+    "solar": "lock-keyhole-unlocked",
+    "emoji": "unlocked",
+    "pixel": "lock-open"
+  },
+  {
+    "solar": "lock-password",
+    "emoji": "locked_with_pen",
+    "pixel": "lock"
+  },
+  {
+    "solar": "lock-password-unlocked",
+    "emoji": "unlocked",
+    "pixel": "lock-open"
+  },
+  {
+    "solar": "lock-unlocked",
+    "emoji": "unlocked",
+    "pixel": "lock-open"
+  },
+  {
+    "solar": "login",
+    "emoji": "door",
+    "pixel": "login"
+  },
+  {
+    "solar": "login-2",
+    "emoji": "door",
+    "pixel": "login"
+  },
+  {
+    "solar": "login-3",
+    "emoji": "door",
+    "pixel": "login"
+  },
+  {
+    "solar": "logout",
+    "emoji": "door",
+    "pixel": "logout"
+  },
+  {
+    "solar": "logout-2",
+    "emoji": "door",
+    "pixel": "logout"
+  },
+  {
+    "solar": "logout-3",
+    "emoji": "door",
+    "pixel": "logout"
+  },
+  {
+    "solar": "magic-stick",
+    "emoji": "magic_wand",
+    "pixel": "animation"
+  },
+  {
+    "solar": "magic-stick-2",
+    "emoji": "magic_wand",
+    "pixel": "animation"
+  },
+  {
+    "solar": "magic-stick-3",
+    "emoji": "magic_wand",
+    "pixel": "animation"
+  },
+  {
+    "solar": "magnet",
+    "emoji": "magnet",
+    "pixel": "more-horizontal"
+  },
+  {
+    "solar": "magnet-wave",
+    "emoji": "magnet",
+    "pixel": "more-horizontal"
+  },
+  {
+    "solar": "magnifer",
+    "emoji": "magnifer",
+    "pixel": "magnifer"
+  },
+  {
+    "solar": "magnifer-bug",
+    "emoji": "bug",
+    "pixel": "bug"
+  },
+  {
+    "solar": "magnifer-zoom-in",
+    "emoji": "magnifying_glass_tilted_right",
+    "pixel": "zoom-in"
+  },
+  {
+    "solar": "magnifer-zoom-out",
+    "emoji": "magnifying_glass_tilted_left",
+    "pixel": "zoom-out"
+  },
+  {
+    "solar": "mailbox",
+    "emoji": "postbox",
+    "pixel": "mail"
+  },
+  {
+    "solar": "map",
+    "emoji": "world_map",
+    "pixel": "map"
+  },
+  {
+    "solar": "map-arrow-down",
+    "emoji": "world_map",
+    "pixel": "map"
+  },
+  {
+    "solar": "map-arrow-left",
+    "emoji": "world_map",
+    "pixel": "map"
+  },
+  {
+    "solar": "map-arrow-right",
+    "emoji": "world_map",
+    "pixel": "map"
+  },
+  {
+    "solar": "map-arrow-square",
+    "emoji": "world_map",
+    "pixel": "map"
+  },
+  {
+    "solar": "map-arrow-up",
+    "emoji": "world_map",
+    "pixel": "map"
+  },
+  {
+    "solar": "map-point",
+    "emoji": "round_pushpin",
+    "pixel": "gps"
+  },
+  {
+    "solar": "map-point-add",
+    "emoji": "round_pushpin",
+    "pixel": "gps"
+  },
+  {
+    "solar": "map-point-favourite",
+    "emoji": "round_pushpin",
+    "pixel": "pin"
+  },
+  {
+    "solar": "map-point-hospital",
+    "emoji": "hospital",
+    "pixel": "map"
+  },
+  {
+    "solar": "map-point-remove",
+    "emoji": "cross_mark",
+    "pixel": "map"
+  },
+  {
+    "solar": "map-point-rotate",
+    "emoji": "clockwise_vertical_arrows",
+    "pixel": "map"
+  },
+  {
+    "solar": "map-point-school",
+    "emoji": "school",
+    "pixel": "map"
+  },
+  {
+    "solar": "map-point-search",
+    "emoji": "magnifying_glass_tilted_right",
+    "pixel": "map"
+  },
+  {
+    "solar": "map-point-wave",
+    "emoji": "water_wave",
+    "pixel": "map"
+  },
+  {
+    "solar": "mask-happly",
+    "emoji": "performing_arts",
+    "pixel": "mood-happy"
+  },
+  {
+    "solar": "mask-sad",
+    "emoji": "performing_arts",
+    "pixel": "mood-sad"
+  },
+  {
+    "solar": "masks",
+    "emoji": "performing_arts",
+    "pixel": "mood-neutral"
+  },
+  {
+    "solar": "maximize",
+    "emoji": "white_large_square",
+    "pixel": "expand"
+  },
+  {
+    "solar": "maximize-square",
+    "emoji": "white_large_square",
+    "pixel": "expand"
+  },
+  {
+    "solar": "maximize-square-2",
+    "emoji": "white_large_square",
+    "pixel": "expand"
+  },
+  {
+    "solar": "maximize-square-3",
+    "emoji": "white_large_square",
+    "pixel": "expand"
+  },
+  {
+    "solar": "maximize-square-minimalistic",
+    "emoji": "white_large_square",
+    "pixel": "expand"
+  },
+  {
+    "solar": "medal-ribbon",
+    "emoji": "sports_medal",
+    "pixel": "trophy"
+  },
+  {
+    "solar": "medal-ribbon-star",
+    "emoji": "1st_place_medal",
+    "pixel": "trophy"
+  },
+  {
+    "solar": "medal-ribbons-star",
+    "emoji": "military_medal",
+    "pixel": "trophy"
+  },
+  {
+    "solar": "medal-star",
+    "emoji": "glowing_star",
+    "pixel": "star"
+  },
+  {
+    "solar": "medal-star-circle",
+    "emoji": "1st_place_medal",
+    "pixel": "star"
+  },
+  {
+    "solar": "medal-star-square",
+    "emoji": "2nd_place_medal",
+    "pixel": "star"
+  },
+  {
+    "solar": "medical-kit",
+    "emoji": "medical_symbol",
+    "pixel": "briefcase"
+  },
+  {
+    "solar": "meditation",
+    "emoji": "lotus",
+    "pixel": "human"
+  },
+  {
+    "solar": "meditation-round",
+    "emoji": "lotus",
+    "pixel": "human"
+  },
+  {
+    "solar": "men",
+    "emoji": "mens_room",
+    "pixel": "user"
+  },
+  {
+    "solar": "mention-circle",
+    "emoji": "speech_balloon",
+    "pixel": "at"
+  },
+  {
+    "solar": "mention-square",
+    "emoji": "speech_balloon",
+    "pixel": "at"
+  },
+  {
+    "solar": "menu-dots",
+    "emoji": "black_circle",
+    "pixel": "more-horizontal"
+  },
+  {
+    "solar": "menu-dots-circle",
+    "emoji": "black_circle",
+    "pixel": "more-horizontal"
+  },
+  {
+    "solar": "menu-dots-square",
+    "emoji": "black_square_button",
+    "pixel": "more-horizontal"
+  },
+  {
+    "solar": "microphone",
+    "emoji": "microphone",
+    "pixel": "music"
+  },
+  {
+    "solar": "microphone-2",
+    "emoji": "studio_microphone",
+    "pixel": "music"
+  },
+  {
+    "solar": "microphone-3",
+    "emoji": "microphone",
+    "pixel": "music"
+  },
+  {
+    "solar": "microphone-large",
+    "emoji": "studio_microphone",
+    "pixel": "music"
+  },
+  {
+    "solar": "minimalistic-magnifer",
+    "emoji": "magnifying_glass_tilted_right",
+    "pixel": "magnifer"
+  },
+  {
+    "solar": "minimalistic-magnifer-bug",
+    "emoji": "bug",
+    "pixel": "bug"
+  },
+  {
+    "solar": "minimalistic-magnifer-zoom-in",
+    "emoji": "magnifying_glass_tilted_right",
+    "pixel": "zoom-in"
+  },
+  {
+    "solar": "minimalistic-magnifer-zoom-out",
+    "emoji": "magnifying_glass_tilted_left",
+    "pixel": "zoom-out"
+  },
+  {
+    "solar": "minimize",
+    "emoji": "white_medium_square",
+    "pixel": "collapse"
+  },
+  {
+    "solar": "minimize-square",
+    "emoji": "white_medium_square",
+    "pixel": "collapse"
+  },
+  {
+    "solar": "minimize-square-2",
+    "emoji": "white_medium_square",
+    "pixel": "collapse"
+  },
+  {
+    "solar": "minimize-square-3",
+    "emoji": "white_medium_square",
+    "pixel": "collapse"
+  },
+  {
+    "solar": "minimize-square-minimalistic",
+    "emoji": "white_small_square",
+    "pixel": "collapse"
+  },
+  {
+    "solar": "minus-circle",
+    "emoji": "minus",
+    "pixel": "minus"
+  },
+  {
+    "solar": "minus-square",
+    "emoji": "black_square_button",
+    "pixel": "minus"
+  },
+  {
+    "solar": "mirror",
+    "emoji": "mirror",
+    "pixel": "flip-to-front"
+  },
+  {
+    "solar": "mirror-left",
+    "emoji": "mirror",
+    "pixel": "flip-to-back"
+  },
+  {
+    "solar": "mirror-right",
+    "emoji": "mirror",
+    "pixel": "flip-to-front"
+  },
+  {
+    "solar": "money-bag",
+    "emoji": "money_bag",
+    "pixel": "coin"
+  },
+  {
+    "solar": "monitor",
+    "emoji": "desktop_computer",
+    "pixel": "monitor"
+  },
+  {
+    "solar": "monitor-camera",
+    "emoji": "camera",
+    "pixel": "monitor"
+  },
+  {
+    "solar": "monitor-smartphone",
+    "emoji": "mobile_phone",
+    "pixel": "devices"
+  },
+  {
+    "solar": "moon",
+    "emoji": "crescent_moon",
+    "pixel": "moon"
+  },
+  {
+    "solar": "moon-fog",
+    "emoji": "fog",
+    "pixel": "moon"
+  },
+  {
+    "solar": "moon-sleep",
+    "emoji": "sleeping_face",
+    "pixel": "moon"
+  },
+  {
+    "solar": "moon-stars",
+    "emoji": "night_with_stars",
+    "pixel": "moon-stars"
+  },
+  {
+    "solar": "mouse",
+    "emoji": "computer_mouse",
+    "pixel": "mouse"
+  },
+  {
+    "solar": "mouse-circle",
+    "emoji": "computer_mouse",
+    "pixel": "mouse"
+  },
+  {
+    "solar": "mouse-minimalistic",
+    "emoji": "mouse",
+    "pixel": "mouse"
+  },
+  {
+    "solar": "move-to-folder",
+    "emoji": "open_file_folder",
+    "pixel": "folder-plus"
+  },
+  {
+    "solar": "multiple-forward-left",
+    "emoji": "fast_reverse_button",
+    "pixel": "chevrons-horizontal"
+  },
+  {
+    "solar": "multiple-forward-right",
+    "emoji": "next_track_button",
+    "pixel": "chevrons-horizontal"
+  },
+  {
+    "solar": "music-library",
+    "emoji": "musical_score",
+    "pixel": "music"
+  },
+  {
+    "solar": "music-library-2",
+    "emoji": "musical_score",
+    "pixel": "music"
+  },
+  {
+    "solar": "music-note",
+    "emoji": "musical_note",
+    "pixel": "music"
+  },
+  {
+    "solar": "music-note-2",
+    "emoji": "musical_note",
+    "pixel": "music"
+  },
+  {
+    "solar": "music-note-3",
+    "emoji": "musical_note",
+    "pixel": "music"
+  },
+  {
+    "solar": "music-note-4",
+    "emoji": "musical_note",
+    "pixel": "music"
+  },
+  {
+    "solar": "music-note-slider",
+    "emoji": "musical_note",
+    "pixel": "sliders"
+  },
+  {
+    "solar": "music-note-slider-2",
+    "emoji": "musical_note",
+    "pixel": "sliders"
+  },
+  {
+    "solar": "music-notes",
+    "emoji": "musical_notes",
+    "pixel": "music"
+  },
+  {
+    "solar": "muted",
+    "emoji": "muted_speaker",
+    "pixel": "volume-x"
+  },
+  {
+    "solar": "notebook",
+    "emoji": "notebook",
+    "pixel": "note"
+  },
+  {
+    "solar": "notebook-bookmark",
+    "emoji": "notebook_with_decorative_cover",
+    "pixel": "note"
+  },
+  {
+    "solar": "notebook-minimalistic",
+    "emoji": "notebook",
+    "pixel": "note"
+  },
+  {
+    "solar": "notebook-square",
+    "emoji": "notebook",
+    "pixel": "note"
+  },
+  {
+    "solar": "notes",
+    "emoji": "memo",
+    "pixel": "notes"
+  },
+  {
+    "solar": "notes-minimalistic",
+    "emoji": "memo",
+    "pixel": "notes"
+  },
+  {
+    "solar": "notification-lines-remove",
+    "emoji": "bell_with_slash",
+    "pixel": "notification-off"
+  },
+  {
+    "solar": "notification-remove",
+    "emoji": "bell_with_slash",
+    "pixel": "notification-off"
+  },
+  {
+    "solar": "notification-unread",
+    "emoji": "bell",
+    "pixel": "notification"
+  },
+  {
+    "solar": "notification-unread-lines",
+    "emoji": "bell",
+    "pixel": "notification"
+  },
+  {
+    "solar": "object-scan",
+    "emoji": "magnifying_glass_tilted_right",
+    "pixel": "search"
+  },
+  {
+    "solar": "outgoing-call",
+    "emoji": "telephone_receiver",
+    "pixel": "missed-call"
+  },
+  {
+    "solar": "outgoing-call-rounded",
+    "emoji": "telephone_receiver",
+    "pixel": "missed-call"
+  },
+  {
+    "solar": "oven-mitts",
+    "emoji": "gloves",
+    "pixel": "more-horizontal"
+  },
+  {
+    "solar": "oven-mitts-minimalistic",
+    "emoji": "gloves",
+    "pixel": "more-horizontal"
+  },
+  {
+    "solar": "paint-roller",
+    "emoji": "paintbrush",
+    "pixel": "paint-bucket"
+  },
+  {
+    "solar": "palette",
+    "emoji": "artist_palette",
+    "pixel": "colors-swatch"
+  },
+  {
+    "solar": "palette-round",
+    "emoji": "artist_palette",
+    "pixel": "colors-swatch"
+  },
+  {
+    "solar": "pallete-2",
+    "emoji": "artist_palette",
+    "pixel": "colors-swatch"
+  },
+  {
+    "solar": "panorama",
+    "emoji": "framed_picture",
+    "pixel": "image"
+  },
+  {
+    "solar": "paper-bin",
+    "emoji": "wastebasket",
+    "pixel": "trash"
+  },
+  {
+    "solar": "paperclip",
+    "emoji": "paperclip",
+    "pixel": "paperclip"
+  },
+  {
+    "solar": "paperclip-2",
+    "emoji": "paperclip",
+    "pixel": "paperclip"
+  },
+  {
+    "solar": "paperclip-rounded",
+    "emoji": "linked_paperclips",
+    "pixel": "paperclip"
+  },
+  {
+    "solar": "paperclip-rounded-2",
+    "emoji": "linked_paperclips",
+    "pixel": "paperclip"
+  },
+  {
+    "solar": "paragraph-spacing",
+    "emoji": "straight_ruler",
+    "pixel": "align-justify"
+  },
+  {
+    "solar": "passport",
+    "emoji": "passport_control",
+    "pixel": "card-id"
+  },
+  {
+    "solar": "passport-minimalistic",
+    "emoji": "passport_control",
+    "pixel": "card-id"
+  },
+  {
+    "solar": "password",
+    "emoji": "locked_with_key",
+    "pixel": "lock"
+  },
+  {
+    "solar": "password-minimalistic",
+    "emoji": "key",
+    "pixel": "lock"
+  },
+  {
+    "solar": "password-minimalistic-input",
+    "emoji": "locked_with_pen",
+    "pixel": "lock"
+  },
+  {
+    "solar": "pause",
+    "emoji": "pause_button",
+    "pixel": "pause"
+  },
+  {
+    "solar": "pause-circle",
+    "emoji": "pause_button",
+    "pixel": "pause"
+  },
+  {
+    "solar": "paw",
+    "emoji": "paw_prints",
+    "pixel": "more-horizontal"
+  },
+  {
+    "solar": "pen",
+    "emoji": "pen",
+    "pixel": "pen"
+  },
+  {
+    "solar": "pen-2",
+    "emoji": "pen",
+    "pixel": "pen"
+  },
+  {
+    "solar": "pen-new-round",
+    "emoji": "fountain_pen",
+    "pixel": "edit"
+  },
+  {
+    "solar": "pen-new-square",
+    "emoji": "pencil",
+    "pixel": "edit-box"
+  },
+  {
+    "solar": "people-nearby",
+    "emoji": "busts_in_silhouette",
+    "pixel": "users"
+  },
+  {
+    "solar": "perfume",
+    "emoji": "lotion_bottle",
+    "pixel": "more-horizontal"
+  },
+  {
+    "solar": "phone",
+    "emoji": "telephone_receiver",
+    "pixel": "device-phone"
+  },
+  {
+    "solar": "phone-calling",
+    "emoji": "telephone",
+    "pixel": "device-phone"
+  },
+  {
+    "solar": "phone-calling-rounded",
+    "emoji": "telephone",
+    "pixel": "device-phone"
+  },
+  {
+    "solar": "phone-rounded",
+    "emoji": "telephone_receiver",
+    "pixel": "device-phone"
+  },
+  {
+    "solar": "pie-chart",
+    "emoji": "pie",
+    "pixel": "chart"
+  },
+  {
+    "solar": "pie-chart-2",
+    "emoji": "pie",
+    "pixel": "chart"
+  },
+  {
+    "solar": "pie-chart-3",
+    "emoji": "pie",
+    "pixel": "chart"
+  },
+  {
+    "solar": "pill",
+    "emoji": "pill",
+    "pixel": "more-horizontal"
+  },
+  {
+    "solar": "pills",
+    "emoji": "pill",
+    "pixel": "more-horizontal"
+  },
+  {
+    "solar": "pills-2",
+    "emoji": "pill",
+    "pixel": "more-horizontal"
+  },
+  {
+    "solar": "pills-3",
+    "emoji": "pill",
+    "pixel": "more-horizontal"
+  },
+  {
+    "solar": "pin",
+    "emoji": "pushpin",
+    "pixel": "pin"
+  },
+  {
+    "solar": "pin-circle",
+    "emoji": "round_pushpin",
+    "pixel": "pin"
+  },
+  {
+    "solar": "pin-list",
+    "emoji": "pushpin",
+    "pixel": "pin"
+  },
+  {
+    "solar": "pip",
+    "emoji": "television",
+    "pixel": "picture-in-picture"
+  },
+  {
+    "solar": "pip-2",
+    "emoji": "television",
+    "pixel": "picture-in-picture-alt"
+  },
+  {
+    "solar": "pipette",
+    "emoji": "alembic",
+    "pixel": "drop"
+  },
+  {
+    "solar": "plaaylist-minimalistic",
+    "emoji": "musical_notes",
+    "pixel": "playlist"
+  },
+  {
+    "solar": "plain",
+    "emoji": "airplane",
+    "pixel": "more-horizontal"
+  },
+  {
+    "solar": "plain-2",
+    "emoji": "small_airplane",
+    "pixel": "more-horizontal"
+  },
+  {
+    "solar": "plain-3",
+    "emoji": "airplane_departure",
+    "pixel": "more-horizontal"
+  },
+  {
+    "solar": "planet",
+    "emoji": "ringed_planet",
+    "pixel": "more-horizontal"
+  },
+  {
+    "solar": "planet-2",
+    "emoji": "ringed_planet",
+    "pixel": "more-horizontal"
+  },
+  {
+    "solar": "planet-3",
+    "emoji": "globe_with_meridians",
+    "pixel": "more-horizontal"
+  },
+  {
+    "solar": "planet-4",
+    "emoji": "globe_showing_americas",
+    "pixel": "more-horizontal"
+  },
+  {
+    "solar": "plate",
+    "emoji": "fork_and_knife_with_plate",
+    "pixel": "more-horizontal"
+  },
+  {
+    "solar": "play",
+    "emoji": "play_button",
+    "pixel": "play"
+  },
+  {
+    "solar": "play-circle",
+    "emoji": "play_button",
+    "pixel": "play"
+  },
+  {
+    "solar": "play-stream",
+    "emoji": "play_or_pause_button",
+    "pixel": "play"
+  },
+  {
+    "solar": "playback-speed",
+    "emoji": "stopwatch",
+    "pixel": "speed-fast"
+  },
+  {
+    "solar": "playlist",
+    "emoji": "musical_notes",
+    "pixel": "playlist"
+  },
+  {
+    "solar": "playlist-2",
+    "emoji": "musical_notes",
+    "pixel": "playlist"
+  },
+  {
+    "solar": "playlist-minimalistic-2",
+    "emoji": "musical_notes",
+    "pixel": "playlist"
+  },
+  {
+    "solar": "playlist-minimalistic-3",
+    "emoji": "musical_notes",
+    "pixel": "playlist"
+  },
+  {
+    "solar": "plug-circle",
+    "emoji": "electric_plug",
+    "pixel": "power"
+  },
+  {
+    "solar": "plus-minus",
+    "emoji": "plus",
+    "pixel": "plus"
+  },
+  {
+    "solar": "podcast",
+    "emoji": "studio_microphone",
+    "pixel": "radio-on"
+  },
+  {
+    "solar": "point-on-map",
+    "emoji": "round_pushpin",
+    "pixel": "map"
+  },
+  {
+    "solar": "point-on-map-perspective",
+    "emoji": "world_map",
+    "pixel": "map"
+  },
+  {
+    "solar": "posts-carousel-horizontal",
+    "emoji": "scroll",
+    "pixel": "scroll-horizontal"
+  },
+  {
+    "solar": "posts-carousel-vertical",
+    "emoji": "scroll",
+    "pixel": "scroll-vertical"
+  },
+  {
+    "solar": "power",
+    "emoji": "high_voltage",
+    "pixel": "power"
+  },
+  {
+    "solar": "presentation-graph",
+    "emoji": "bar_chart",
+    "pixel": "analytics"
+  },
+  {
+    "solar": "printer",
+    "emoji": "printer",
+    "pixel": "print"
+  },
+  {
+    "solar": "printer-2",
+    "emoji": "printer",
+    "pixel": "print"
+  },
+  {
+    "solar": "printer-minimalistic",
+    "emoji": "printer",
+    "pixel": "print"
+  },
+  {
+    "solar": "programming",
+    "emoji": "laptop",
+    "pixel": "code"
+  },
+  {
+    "solar": "projector",
+    "emoji": "film_projector",
+    "pixel": "movie"
+  },
+  {
+    "solar": "pulse",
+    "emoji": "anatomical_heart",
+    "pixel": "chart"
+  },
+  {
+    "solar": "pulse-2",
+    "emoji": "anatomical_heart",
+    "pixel": "chart"
+  },
+  {
+    "solar": "qr-code",
+    "emoji": "white_square_button",
+    "pixel": "grid"
+  },
+  {
+    "solar": "question-circle",
+    "emoji": "white_question_mark",
+    "pixel": "circle"
+  },
+  {
+    "solar": "question-square",
+    "emoji": "white_question_mark",
+    "pixel": "more-horizontal"
+  },
+  {
+    "solar": "quit-full-screen",
+    "emoji": "white_square_button",
+    "pixel": "collapse"
+  },
+  {
+    "solar": "quit-full-screen-circle",
+    "emoji": "white_square_button",
+    "pixel": "collapse"
+  },
+  {
+    "solar": "quit-full-screen-square",
+    "emoji": "white_square_button",
+    "pixel": "collapse"
+  },
+  {
+    "solar": "quit-pip",
+    "emoji": "white_square_button",
+    "pixel": "picture-in-picture"
+  },
+  {
+    "solar": "radar",
+    "emoji": "satellite_antenna",
+    "pixel": "radio-tower"
+  },
+  {
+    "solar": "radar-2",
+    "emoji": "satellite_antenna",
+    "pixel": "radio-tower"
+  },
+  {
+    "solar": "radial-blur",
+    "emoji": "cyclone",
+    "pixel": "animation"
+  },
+  {
+    "solar": "radio",
+    "emoji": "radio",
+    "pixel": "radio-handheld"
+  },
+  {
+    "solar": "radio-minimalistic",
+    "emoji": "radio",
+    "pixel": "radio-on"
+  },
+  {
+    "solar": "ranking",
+    "emoji": "trophy",
+    "pixel": "trophy"
+  },
+  {
+    "solar": "recive-square",
+    "emoji": "inbox_tray",
+    "pixel": "inbox"
+  },
+  {
+    "solar": "recive-twice-square",
+    "emoji": "inbox_tray",
+    "pixel": "inbox-all"
+  },
+  {
+    "solar": "record",
+    "emoji": "record_button",
+    "pixel": "circle"
+  },
+  {
+    "solar": "record-circle",
+    "emoji": "record_button",
+    "pixel": "circle"
+  },
+  {
+    "solar": "record-minimalistic",
+    "emoji": "record_button",
+    "pixel": "circle"
+  },
+  {
+    "solar": "record-square",
+    "emoji": "record_button",
+    "pixel": "circle"
+  },
+  {
+    "solar": "reel",
+    "emoji": "film_frames",
+    "pixel": "movie"
+  },
+  {
+    "solar": "reel-2",
+    "emoji": "film_frames",
+    "pixel": "movie"
+  },
+  {
+    "solar": "refresh",
+    "emoji": "counterclockwise_arrows_button",
+    "pixel": "reload"
+  },
+  {
+    "solar": "refresh-circle",
+    "emoji": "counterclockwise_arrows_button",
+    "pixel": "reload"
+  },
+  {
+    "solar": "refresh-square",
+    "emoji": "counterclockwise_arrows_button",
+    "pixel": "reload"
+  },
+  {
+    "solar": "remote-controller",
+    "emoji": "television",
+    "pixel": "device-tv"
+  },
+  {
+    "solar": "remote-controller-2",
+    "emoji": "television",
+    "pixel": "device-tv"
+  },
+  {
+    "solar": "remote-controller-minimalistic",
+    "emoji": "television",
+    "pixel": "device-tv"
+  },
+  {
+    "solar": "remove-folder",
+    "emoji": "file_folder",
+    "pixel": "folder-x"
+  },
+  {
+    "solar": "reorder",
+    "emoji": "white_square_button",
+    "pixel": "drag-and-drop"
+  },
+  {
+    "solar": "repeat",
+    "emoji": "repeat_button",
+    "pixel": "repeat"
+  },
+  {
+    "solar": "repeat-one",
+    "emoji": "repeat_single_button",
+    "pixel": "repeat"
+  },
+  {
+    "solar": "repeat-one-minimalistic",
+    "emoji": "repeat_single_button",
+    "pixel": "repeat"
+  },
+  {
+    "solar": "reply",
+    "emoji": "left_arrow",
+    "pixel": "reply"
+  },
+  {
+    "solar": "reply-2",
+    "emoji": "left_arrow",
+    "pixel": "reply-all"
+  },
+  {
+    "solar": "restart",
+    "emoji": "counterclockwise_arrows_button",
+    "pixel": "redo"
+  },
+  {
+    "solar": "restart-circle",
+    "emoji": "counterclockwise_arrows_button",
+    "pixel": "redo"
+  },
+  {
+    "solar": "restart-square",
+    "emoji": "counterclockwise_arrows_button",
+    "pixel": "redo"
+  },
+  {
+    "solar": "revote",
+    "emoji": "ballot_box_with_ballot",
+    "pixel": "redo"
+  },
+  {
+    "solar": "rewind-10-seconds-back",
+    "emoji": "fast_reverse_button",
+    "pixel": "prev"
+  },
+  {
+    "solar": "rewind-10-seconds-forward",
+    "emoji": "fast_down_button",
+    "pixel": "next"
+  },
+  {
+    "solar": "rewind-15-seconds-back",
+    "emoji": "fast_reverse_button",
+    "pixel": "prev"
+  },
+  {
+    "solar": "rewind-15-seconds-forward",
+    "emoji": "fast_down_button",
+    "pixel": "next"
+  },
+  {
+    "solar": "rewind-5-seconds-back",
+    "emoji": "fast_reverse_button",
+    "pixel": "prev"
+  },
+  {
+    "solar": "rewind-5-seconds-forward",
+    "emoji": "fast_down_button",
+    "pixel": "next"
+  },
+  {
+    "solar": "rewind-back",
+    "emoji": "fast_reverse_button",
+    "pixel": "prev"
+  },
+  {
+    "solar": "rewind-back-circle",
+    "emoji": "fast_reverse_button",
+    "pixel": "prev"
+  },
+  {
+    "solar": "rewind-forward",
+    "emoji": "fast_down_button",
+    "pixel": "next"
+  },
+  {
+    "solar": "rewind-forward-circle",
+    "emoji": "fast_down_button",
+    "pixel": "next"
+  },
+  {
+    "solar": "rocket",
+    "emoji": "rocket",
+    "pixel": "zap"
+  },
+  {
+    "solar": "rocket-2",
+    "emoji": "rocket",
+    "pixel": "zap"
+  },
+  {
+    "solar": "rolling-pin",
+    "emoji": "bread",
+    "pixel": "more-horizontal"
+  },
+  {
+    "solar": "round-alt-arrow-down",
+    "emoji": "down_arrow",
+    "pixel": "arrow-down"
+  },
+  {
+    "solar": "round-alt-arrow-left",
+    "emoji": "left_arrow",
+    "pixel": "arrow-left"
+  },
+  {
+    "solar": "round-alt-arrow-right",
+    "emoji": "right_arrow",
+    "pixel": "arrow-right"
+  },
+  {
+    "solar": "round-alt-arrow-up",
+    "emoji": "up_arrow",
+    "pixel": "arrow-up"
+  },
+  {
+    "solar": "round-arrow-down",
+    "emoji": "down_arrow",
+    "pixel": "arrow-down"
+  },
+  {
+    "solar": "round-arrow-left",
+    "emoji": "left_arrow",
+    "pixel": "arrow-left"
+  },
+  {
+    "solar": "round-arrow-left-down",
+    "emoji": "left_arrow",
+    "pixel": "corner-left-down"
+  },
+  {
+    "solar": "round-arrow-left-up",
+    "emoji": "left_arrow",
+    "pixel": "corner-left-up"
+  },
+  {
+    "solar": "round-arrow-right",
+    "emoji": "right_arrow",
+    "pixel": "arrow-right"
+  },
+  {
+    "solar": "round-arrow-right-down",
+    "emoji": "right_arrow",
+    "pixel": "corner-right-down"
+  },
+  {
+    "solar": "round-arrow-right-up",
+    "emoji": "right_arrow",
+    "pixel": "corner-right-up"
+  },
+  {
+    "solar": "round-arrow-up",
+    "emoji": "up_arrow",
+    "pixel": "arrow-up"
+  },
+  {
+    "solar": "round-double-alt-arrow-down",
+    "emoji": "fast_down_button",
+    "pixel": "chevrons-vertical"
+  },
+  {
+    "solar": "round-double-alt-arrow-left",
+    "emoji": "left_arrow",
+    "pixel": "chevrons-horizontal"
+  },
+  {
+    "solar": "round-double-alt-arrow-right",
+    "emoji": "right_arrow",
+    "pixel": "chevrons-horizontal"
+  },
+  {
+    "solar": "round-double-alt-arrow-up",
+    "emoji": "fast_up_button",
+    "pixel": "chevrons-vertical"
+  },
+  {
+    "solar": "round-graph",
+    "emoji": "bar_chart",
+    "pixel": "chart"
+  },
+  {
+    "solar": "round-sort-horizontal",
+    "emoji": "white_square_button",
+    "pixel": "sort"
+  },
+  {
+    "solar": "round-sort-vertical",
+    "emoji": "white_square_button",
+    "pixel": "sort"
+  },
+  {
+    "solar": "round-transfer-diagonal",
+    "emoji": "white_square_button",
+    "pixel": "arrows-horizontal"
+  },
+  {
+    "solar": "round-transfer-horizontal",
+    "emoji": "white_square_button",
+    "pixel": "arrows-horizontal"
+  },
+  {
+    "solar": "round-transfer-vertical",
+    "emoji": "white_square_button",
+    "pixel": "arrows-vertical"
+  },
+  {
+    "solar": "rounded-magnifer",
+    "emoji": "magnifying_glass_tilted_right",
+    "pixel": "magnifer"
+  },
+  {
+    "solar": "rounded-magnifer-bug",
+    "emoji": "bug",
+    "pixel": "bug"
+  },
+  {
+    "solar": "rounded-magnifer-zoom-in",
+    "emoji": "magnifying_glass_tilted_right",
+    "pixel": "zoom-in"
+  },
+  {
+    "solar": "rounded-magnifer-zoom-out",
+    "emoji": "magnifying_glass_tilted_right",
+    "pixel": "zoom-out"
+  },
+  {
+    "solar": "route",
+    "emoji": "world_map",
+    "pixel": "map"
+  },
+  {
+    "solar": "routing",
+    "emoji": "world_map",
+    "pixel": "map"
+  },
+  {
+    "solar": "routing-2",
+    "emoji": "world_map",
+    "pixel": "map"
+  },
+  {
+    "solar": "routing-3",
+    "emoji": "world_map",
+    "pixel": "map"
+  },
+  {
+    "solar": "ruble",
+    "emoji": "dollar_banknote",
+    "pixel": "dollar"
+  },
+  {
+    "solar": "rugby",
+    "emoji": "rugby_football",
+    "pixel": "circle"
+  },
+  {
+    "solar": "ruler",
+    "emoji": "straight_ruler",
+    "pixel": "more-horizontal"
+  },
+  {
+    "solar": "ruler-angular",
+    "emoji": "triangular_ruler",
+    "pixel": "more-horizontal"
+  },
+  {
+    "solar": "ruler-cross-pen",
+    "emoji": "straight_ruler",
+    "pixel": "pen"
+  },
+  {
+    "solar": "ruler-pen",
+    "emoji": "straight_ruler",
+    "pixel": "pen"
+  },
+  {
+    "solar": "running",
+    "emoji": "running_shoe",
+    "pixel": "human-run"
+  },
+  {
+    "solar": "running-2",
+    "emoji": "running_shoe",
+    "pixel": "human-run"
+  },
+  {
+    "solar": "running-round",
+    "emoji": "running_shoe",
+    "pixel": "human-run"
+  },
+  {
+    "solar": "sad-circle",
+    "emoji": "slightly_frowning_face",
+    "pixel": "mood-sad"
+  },
+  {
+    "solar": "sad-square",
+    "emoji": "slightly_frowning_face",
+    "pixel": "mood-sad"
+  },
+  {
+    "solar": "safe-2",
+    "emoji": "locked",
+    "pixel": "lock"
+  },
+  {
+    "solar": "safe-circle",
+    "emoji": "locked",
+    "pixel": "lock"
+  },
+  {
+    "solar": "safe-square",
+    "emoji": "locked",
+    "pixel": "lock"
+  },
+  {
+    "solar": "sale",
+    "emoji": "label",
+    "pixel": "label"
+  },
+  {
+    "solar": "sale-square",
+    "emoji": "label",
+    "pixel": "label"
+  },
+  {
+    "solar": "satellite",
+    "emoji": "satellite",
+    "pixel": "radio-tower"
+  },
+  {
+    "solar": "scale",
+    "emoji": "balance_scale",
+    "pixel": "scale"
+  },
+  {
+    "solar": "scanner",
+    "emoji": "camera",
+    "pixel": "camera"
+  },
+  {
+    "solar": "scanner-2",
+    "emoji": "camera",
+    "pixel": "camera"
+  },
+  {
+    "solar": "scissors",
+    "emoji": "scissors",
+    "pixel": "cut"
+  },
+  {
+    "solar": "scissors-square",
+    "emoji": "scissors",
+    "pixel": "cut"
+  },
+  {
+    "solar": "scooter",
+    "emoji": "motor_scooter",
+    "pixel": "more-horizontal"
+  },
+  {
+    "solar": "screen-share",
+    "emoji": "desktop_computer",
+    "pixel": "cast"
+  },
+  {
+    "solar": "screencast",
+    "emoji": "television",
+    "pixel": "cast"
+  },
+  {
+    "solar": "screencast-2",
+    "emoji": "television",
+    "pixel": "cast"
+  },
+  {
+    "solar": "sd-card",
+    "emoji": "computer_disk",
+    "pixel": "sd"
+  },
+  {
+    "solar": "send-square",
+    "emoji": "envelope_with_arrow",
+    "pixel": "mail-arrow-right"
+  },
+  {
+    "solar": "send-twice-square",
+    "emoji": "envelope_with_arrow",
+    "pixel": "mail-arrow-right"
+  },
+  {
+    "solar": "server",
+    "emoji": "desktop_computer",
+    "pixel": "server"
+  },
+  {
+    "solar": "server-2",
+    "emoji": "desktop_computer",
+    "pixel": "server"
+  },
+  {
+    "solar": "server-minimalistic",
+    "emoji": "desktop_computer",
+    "pixel": "server"
+  },
+  {
+    "solar": "server-path",
+    "emoji": "desktop_computer",
+    "pixel": "server"
+  },
+  {
+    "solar": "server-square",
+    "emoji": "desktop_computer",
+    "pixel": "server"
+  },
+  {
+    "solar": "server-square-cloud",
+    "emoji": "cloud",
+    "pixel": "server"
+  },
+  {
+    "solar": "server-square-update",
+    "emoji": "desktop_computer",
+    "pixel": "server"
+  },
+  {
+    "solar": "settings",
+    "emoji": "settings",
+    "pixel": "settings"
+  },
+  {
+    "solar": "settings-minimalistic",
+    "emoji": "settings",
+    "pixel": "settings"
+  },
+  {
+    "solar": "share",
+    "emoji": "mobile_phone_with_arrow",
+    "pixel": "forward"
+  },
+  {
+    "solar": "share-circle",
+    "emoji": "mobile_phone_with_arrow",
+    "pixel": "forward"
+  },
+  {
+    "solar": "shield",
+    "emoji": "shield",
+    "pixel": "shield"
+  },
+  {
+    "solar": "shield-check",
+    "emoji": "shield",
+    "pixel": "shield"
+  },
+  {
+    "solar": "shield-cross",
+    "emoji": "shield",
+    "pixel": "shield-off"
+  },
+  {
+    "solar": "shield-keyhole",
+    "emoji": "shield",
+    "pixel": "shield"
+  },
+  {
+    "solar": "shield-keyhole-minimalistic",
+    "emoji": "shield",
+    "pixel": "shield"
+  },
+  {
+    "solar": "shield-minimalistic",
+    "emoji": "shield",
+    "pixel": "shield"
+  },
+  {
+    "solar": "shield-minus",
+    "emoji": "shield",
+    "pixel": "shield"
+  },
+  {
+    "solar": "shield-network",
+    "emoji": "shield",
+    "pixel": "shield"
+  },
+  {
+    "solar": "shield-plus",
+    "emoji": "shield",
+    "pixel": "shield"
+  },
+  {
+    "solar": "shield-star",
+    "emoji": "shield",
+    "pixel": "shield"
+  },
+  {
+    "solar": "shield-up",
+    "emoji": "shield",
+    "pixel": "shield"
+  },
+  {
+    "solar": "shield-user",
+    "emoji": "shield",
+    "pixel": "shield"
+  },
+  {
+    "solar": "shield-warning",
+    "emoji": "shield",
+    "pixel": "shield-off"
+  },
+  {
+    "solar": "shock-absorber",
+    "emoji": "nut_and_bolt",
+    "pixel": "more-horizontal"
+  },
+  {
+    "solar": "shop",
+    "emoji": "convenience_store",
+    "pixel": "store"
+  },
+  {
+    "solar": "shop-2",
+    "emoji": "convenience_store",
+    "pixel": "store"
+  },
+  {
+    "solar": "shop-minimalistic",
+    "emoji": "convenience_store",
+    "pixel": "store"
+  },
+  {
+    "solar": "shuffle",
+    "emoji": "shuffle_tracks_button",
+    "pixel": "shuffle"
+  },
+  {
+    "solar": "sidebar-code",
+    "emoji": "laptop",
+    "pixel": "layout-sidebar-left"
+  },
+  {
+    "solar": "sidebar-minimalistic",
+    "emoji": "white_square_button",
+    "pixel": "layout-sidebar-left"
+  },
+  {
+    "solar": "siderbar",
+    "emoji": "white_square_button",
+    "pixel": "layout-sidebar-right"
+  },
+  {
+    "solar": "signpost",
+    "emoji": "triangular_flag",
+    "pixel": "flag"
+  },
+  {
+    "solar": "signpost-2",
+    "emoji": "triangular_flag",
+    "pixel": "flag"
+  },
+  {
+    "solar": "sim-card",
+    "emoji": "mobile_phone",
+    "pixel": "card"
+  },
+  {
+    "solar": "sim-card-minimalistic",
+    "emoji": "mobile_phone",
+    "pixel": "card"
+  },
+  {
+    "solar": "sim-cards",
+    "emoji": "mobile_phone",
+    "pixel": "card-stack"
+  },
+  {
+    "solar": "siren",
+    "emoji": "police_car_light",
+    "pixel": "alert"
+  },
+  {
+    "solar": "siren-rounded",
+    "emoji": "police_car_light",
+    "pixel": "alert"
+  },
+  {
+    "solar": "skateboard",
+    "emoji": "skateboard",
+    "pixel": "more-horizontal"
+  },
+  {
+    "solar": "skateboarding",
+    "emoji": "skateboard",
+    "pixel": "human-run"
+  },
+  {
+    "solar": "skateboarding-round",
+    "emoji": "skateboard",
+    "pixel": "human-run"
+  },
+  {
+    "solar": "skip-next",
+    "emoji": "next_track_button",
+    "pixel": "next"
+  },
+  {
+    "solar": "skip-previous",
+    "emoji": "last_track_button",
+    "pixel": "prev"
+  },
+  {
+    "solar": "skirt",
+    "emoji": "dress",
+    "pixel": "more-horizontal"
+  },
+  {
+    "solar": "slash-circle",
+    "emoji": "prohibited",
+    "pixel": "close"
+  },
+  {
+    "solar": "slash-square",
+    "emoji": "cross_mark_button",
+    "pixel": "close-box"
+  },
+  {
+    "solar": "sledgehammer",
+    "emoji": "hammer",
+    "pixel": "more-horizontal"
+  },
+  {
+    "solar": "sleeping",
+    "emoji": "sleeping_face",
+    "pixel": "moon"
+  },
+  {
+    "solar": "sleeping-circle",
+    "emoji": "sleeping_face",
+    "pixel": "moon"
+  },
+  {
+    "solar": "sleeping-square",
+    "emoji": "zzz",
+    "pixel": "moon"
+  },
+  {
+    "solar": "slider-horizontal",
+    "emoji": "level_slider",
+    "pixel": "sliders"
+  },
+  {
+    "solar": "slider-minimalistic-horizontal",
+    "emoji": "level_slider",
+    "pixel": "sliders"
+  },
+  {
+    "solar": "slider-vertical",
+    "emoji": "control_knobs",
+    "pixel": "sliders-2"
+  },
+  {
+    "solar": "slider-vertical-minimalistic",
+    "emoji": "control_knobs",
+    "pixel": "sliders-2"
+  },
+  {
+    "solar": "smart-home",
+    "emoji": "house",
+    "pixel": "home"
+  },
+  {
+    "solar": "smart-home-angle",
+    "emoji": "house",
+    "pixel": "home"
+  },
+  {
+    "solar": "smart-speaker",
+    "emoji": "speaker_high_volume",
+    "pixel": "speaker"
+  },
+  {
+    "solar": "smart-speaker-2",
+    "emoji": "speaker_high_volume",
+    "pixel": "speaker"
+  },
+  {
+    "solar": "smart-speaker-minimalistic",
+    "emoji": "speaker_medium_volume",
+    "pixel": "speaker"
+  },
+  {
+    "solar": "smart-vacuum-cleaner",
+    "emoji": "broom",
+    "pixel": "more-horizontal"
+  },
+  {
+    "solar": "smart-vacuum-cleaner-2",
+    "emoji": "broom",
+    "pixel": "more-horizontal"
+  },
+  {
+    "solar": "smartphone",
+    "emoji": "mobile_phone",
+    "pixel": "device-phone"
+  },
+  {
+    "solar": "smartphone-2",
+    "emoji": "mobile_phone",
+    "pixel": "device-phone"
+  },
+  {
+    "solar": "smartphone-rotate-2",
+    "emoji": "mobile_phone_with_arrow",
+    "pixel": "device-phone"
+  },
+  {
+    "solar": "smartphone-rotate-angle",
+    "emoji": "mobile_phone_with_arrow",
+    "pixel": "device-phone"
+  },
+  {
+    "solar": "smartphone-rotate-orientation",
+    "emoji": "mobile_phone_with_arrow",
+    "pixel": "device-phone"
+  },
+  {
+    "solar": "smartphone-update",
+    "emoji": "mobile_phone_with_arrow",
+    "pixel": "device-phone"
+  },
+  {
+    "solar": "smartphone-vibration",
+    "emoji": "vibration_mode",
+    "pixel": "device-vibrate"
+  },
+  {
+    "solar": "smile-circle",
+    "emoji": "smiling_face",
+    "pixel": "mood-happy"
+  },
+  {
+    "solar": "smile-square",
+    "emoji": "grinning_face",
+    "pixel": "mood-happy"
+  },
+  {
+    "solar": "snowflake",
+    "emoji": "snowflake",
+    "pixel": "wind"
+  },
+  {
+    "solar": "socket",
+    "emoji": "electric_plug",
+    "pixel": "zap"
+  },
+  {
+    "solar": "sofa",
+    "emoji": "couch_and_lamp",
+    "pixel": "more-horizontal"
+  },
+  {
+    "solar": "sofa-2",
+    "emoji": "couch_and_lamp",
+    "pixel": "more-horizontal"
+  },
+  {
+    "solar": "sofa-3",
+    "emoji": "couch_and_lamp",
+    "pixel": "more-horizontal"
+  },
+  {
+    "solar": "sort",
+    "emoji": "up_arrow",
+    "pixel": "sort"
+  },
+  {
+    "solar": "sort-by-alphabet",
+    "emoji": "input_latin_letters",
+    "pixel": "sort-alphabetic"
+  },
+  {
+    "solar": "sort-by-time",
+    "emoji": "alarm_clock",
+    "pixel": "calendar-sort-ascending"
+  },
+  {
+    "solar": "sort-from-bottom-to-top",
+    "emoji": "up_arrow",
+    "pixel": "sort"
+  },
+  {
+    "solar": "sort-from-top-to-bottom",
+    "emoji": "down_arrow",
+    "pixel": "sort"
+  },
+  {
+    "solar": "sort-horizontal",
+    "emoji": "left_arrow",
+    "pixel": "arrows-horizontal"
+  },
+  {
+    "solar": "sort-vertical",
+    "emoji": "up_arrow",
+    "pixel": "arrows-vertical"
+  },
+  {
+    "solar": "soundwave",
+    "emoji": "musical_notes",
+    "pixel": "volume"
+  },
+  {
+    "solar": "soundwave-circle",
+    "emoji": "musical_notes",
+    "pixel": "volume"
+  },
+  {
+    "solar": "soundwave-square",
+    "emoji": "musical_notes",
+    "pixel": "volume"
+  },
+  {
+    "solar": "speaker",
+    "emoji": "speaker_high_volume",
+    "pixel": "speaker"
+  },
+  {
+    "solar": "speaker-minimalistic",
+    "emoji": "speaker_medium_volume",
+    "pixel": "speaker"
+  },
+  {
+    "solar": "special-effects",
+    "emoji": "sparkles",
+    "pixel": "star"
+  },
+  {
+    "solar": "spedometer-low",
+    "emoji": "speedboat",
+    "pixel": "speed-slow"
+  },
+  {
+    "solar": "spedometer-max",
+    "emoji": "speedboat",
+    "pixel": "speed-fast"
+  },
+  {
+    "solar": "spedometer-middle",
+    "emoji": "speedboat",
+    "pixel": "speed-medium"
+  },
+  {
+    "solar": "square-academic-cap",
+    "emoji": "graduation_cap",
+    "pixel": "teach"
+  },
+  {
+    "solar": "square-academic-cap-2",
+    "emoji": "graduation_cap",
+    "pixel": "teach"
+  },
+  {
+    "solar": "square-alt-arrow-down",
+    "emoji": "down_arrow",
+    "pixel": "arrow-down-box"
+  },
+  {
+    "solar": "square-alt-arrow-left",
+    "emoji": "left_arrow",
+    "pixel": "arrow-left-box"
+  },
+  {
+    "solar": "square-alt-arrow-right",
+    "emoji": "right_arrow",
+    "pixel": "arrow-right-box"
+  },
+  {
+    "solar": "square-alt-arrow-up",
+    "emoji": "up_arrow",
+    "pixel": "arrow-up-box"
+  },
+  {
+    "solar": "square-arrow-down",
+    "emoji": "down_arrow",
+    "pixel": "arrow-down-box"
+  },
+  {
+    "solar": "square-arrow-left",
+    "emoji": "left_arrow",
+    "pixel": "arrow-left-box"
+  },
+  {
+    "solar": "square-arrow-left-down",
+    "emoji": "down_arrow",
+    "pixel": "arrow-left-box"
+  },
+  {
+    "solar": "square-arrow-left-up",
+    "emoji": "up_arrow",
+    "pixel": "arrow-left-box"
+  },
+  {
+    "solar": "square-arrow-right",
+    "emoji": "right_arrow",
+    "pixel": "arrow-right-box"
+  },
+  {
+    "solar": "square-arrow-right-down",
+    "emoji": "down_arrow",
+    "pixel": "arrow-right-box"
+  },
+  {
+    "solar": "square-arrow-right-up",
+    "emoji": "up_arrow",
+    "pixel": "arrow-right-box"
+  },
+  {
+    "solar": "square-arrow-up",
+    "emoji": "up_arrow",
+    "pixel": "arrow-up-box"
+  },
+  {
+    "solar": "square-bottom-down",
+    "emoji": "downwards_button",
+    "pixel": "arrow-down-box"
+  },
+  {
+    "solar": "square-bottom-up",
+    "emoji": "upwards_button",
+    "pixel": "arrow-up-box"
+  },
+  {
+    "solar": "square-double-alt-arrow-down",
+    "emoji": "fast_down_button",
+    "pixel": "arrow-down-box"
+  },
+  {
+    "solar": "square-double-alt-arrow-left",
+    "emoji": "back_arrow",
+    "pixel": "arrow-left-box"
+  },
+  {
+    "solar": "square-double-alt-arrow-right",
+    "emoji": "right_arrow",
+    "pixel": "arrow-right-box"
+  },
+  {
+    "solar": "square-double-alt-arrow-up",
+    "emoji": "fast_up_button",
+    "pixel": "arrow-up-box"
+  },
+  {
+    "solar": "square-forward",
+    "emoji": "right_arrow",
+    "pixel": "forward"
+  },
+  {
+    "solar": "square-share-line",
+    "emoji": "mobile_phone_with_arrow",
+    "pixel": "external-link"
+  },
+  {
+    "solar": "square-sort-horizontal",
+    "emoji": "left_arrow",
+    "pixel": "arrows-horizontal"
+  },
+  {
+    "solar": "square-sort-vertical",
+    "emoji": "up_arrow",
+    "pixel": "arrows-vertical"
+  },
+  {
+    "solar": "square-top-down",
+    "emoji": "downwards_button",
+    "pixel": "arrow-down-box"
+  },
+  {
+    "solar": "square-top-up",
+    "emoji": "upwards_button",
+    "pixel": "arrow-up-box"
+  },
+  {
+    "solar": "square-transfer-horizontal",
+    "emoji": "left_arrow",
+    "pixel": "arrows-horizontal"
+  },
+  {
+    "solar": "square-transfer-vertical",
+    "emoji": "up_arrow",
+    "pixel": "arrows-vertical"
+  },
+  {
+    "solar": "ssd-round",
+    "emoji": "computer_disk",
+    "pixel": "server"
+  },
+  {
+    "solar": "ssd-square",
+    "emoji": "computer_disk",
+    "pixel": "server"
+  },
+  {
+    "solar": "star",
+    "emoji": "star",
+    "pixel": "star"
+  },
+  {
+    "solar": "star-angle",
+    "emoji": "star",
+    "pixel": "star"
+  },
+  {
+    "solar": "star-circle",
+    "emoji": "glowing_star",
+    "pixel": "star"
+  },
+  {
+    "solar": "star-fall",
+    "emoji": "shooting_star",
+    "pixel": "star"
+  },
+  {
+    "solar": "star-fall-2",
+    "emoji": "shooting_star",
+    "pixel": "star"
+  },
+  {
+    "solar": "star-fall-minimalistic",
+    "emoji": "shooting_star",
+    "pixel": "star"
+  },
+  {
+    "solar": "star-fall-minimalistic-2",
+    "emoji": "shooting_star",
+    "pixel": "star"
+  },
+  {
+    "solar": "star-rainbow",
+    "emoji": "rainbow",
+    "pixel": "star"
+  },
+  {
+    "solar": "star-ring",
+    "emoji": "sparkle",
+    "pixel": "star"
+  },
+  {
+    "solar": "star-rings",
+    "emoji": "sparkles",
+    "pixel": "star"
+  },
+  {
+    "solar": "star-shine",
+    "emoji": "glowing_star",
+    "pixel": "star"
+  },
+  {
+    "solar": "stars",
+    "emoji": "sparkles",
+    "pixel": "star"
+  },
+  {
+    "solar": "stars-line",
+    "emoji": "sparkles",
+    "pixel": "star"
+  },
+  {
+    "solar": "stars-minimalistic",
+    "emoji": "sparkle",
+    "pixel": "star"
+  },
+  {
+    "solar": "station",
+    "emoji": "station",
+    "pixel": "more-horizontal"
+  },
+  {
+    "solar": "station-minimalistic",
+    "emoji": "station",
+    "pixel": "more-horizontal"
+  },
+  {
+    "solar": "stethoscope",
+    "emoji": "stethoscope",
+    "pixel": "more-horizontal"
+  },
+  {
+    "solar": "sticker-circle",
+    "emoji": "white_circle",
+    "pixel": "circle"
+  },
+  {
+    "solar": "sticker-smile-circle",
+    "emoji": "smiling_face",
+    "pixel": "mood-happy"
+  },
+  {
+    "solar": "sticker-smile-circle-2",
+    "emoji": "smiling_face",
+    "pixel": "mood-happy"
+  },
+  {
+    "solar": "sticker-smile-square",
+    "emoji": "grinning_face",
+    "pixel": "mood-happy"
+  },
+  {
+    "solar": "sticker-square",
+    "emoji": "white_square_button",
+    "pixel": "more-horizontal"
+  },
+  {
+    "solar": "stop",
+    "emoji": "stop_button",
+    "pixel": "pause"
+  },
+  {
+    "solar": "stop-circle",
+    "emoji": "stop_button",
+    "pixel": "pause"
+  },
+  {
+    "solar": "stopwatch",
+    "emoji": "stopwatch",
+    "pixel": "clock"
+  },
+  {
+    "solar": "stopwatch-pause",
+    "emoji": "stopwatch",
+    "pixel": "clock"
+  },
+  {
+    "solar": "stopwatch-play",
+    "emoji": "stopwatch",
+    "pixel": "clock"
+  },
+  {
+    "solar": "stream",
+    "emoji": "video_camera",
+    "pixel": "cast"
+  },
+  {
+    "solar": "streets",
+    "emoji": "motorway",
+    "pixel": "map"
+  },
+  {
+    "solar": "streets-map-point",
+    "emoji": "round_pushpin",
+    "pixel": "map"
+  },
+  {
+    "solar": "streets-navigation",
+    "emoji": "compass",
+    "pixel": "map"
+  },
+  {
+    "solar": "stretching",
+    "emoji": "person_wrestling",
+    "pixel": "human-handsup"
+  },
+  {
+    "solar": "stretching-round",
+    "emoji": "person_wrestling",
+    "pixel": "human-handsup"
+  },
+  {
+    "solar": "structure",
+    "emoji": "deciduous_tree",
+    "pixel": "git-branch"
+  },
+  {
+    "solar": "subtitles",
+    "emoji": "speech_balloon",
+    "pixel": "subtitles"
+  },
+  {
+    "solar": "suitcase",
+    "emoji": "luggage",
+    "pixel": "suitcase"
+  },
+  {
+    "solar": "suitcase-lines",
+    "emoji": "luggage",
+    "pixel": "suitcase"
+  },
+  {
+    "solar": "suitcase-tag",
+    "emoji": "luggage",
+    "pixel": "suitcase"
+  },
+  {
+    "solar": "sun",
+    "emoji": "sun",
+    "pixel": "sun"
+  },
+  {
+    "solar": "sun-2",
+    "emoji": "sun",
+    "pixel": "sun-alt"
+  },
+  {
+    "solar": "sun-fog",
+    "emoji": "fog",
+    "pixel": "cloud-sun"
+  },
+  {
+    "solar": "sunrise",
+    "emoji": "sunrise",
+    "pixel": "sun"
+  },
+  {
+    "solar": "sunset",
+    "emoji": "sunset",
+    "pixel": "sun"
+  },
+  {
+    "solar": "suspension",
+    "emoji": "suspension_railway",
+    "pixel": "more-horizontal"
+  },
+  {
+    "solar": "suspension-bolt",
+    "emoji": "high_voltage",
+    "pixel": "zap"
+  },
+  {
+    "solar": "suspension-cross",
+    "emoji": "cross_mark",
+    "pixel": "close"
+  },
+  {
+    "solar": "swimming",
+    "emoji": "water_wave",
+    "pixel": "more-horizontal"
+  },
+  {
+    "solar": "syringe",
+    "emoji": "syringe",
+    "pixel": "more-horizontal"
+  },
+  {
+    "solar": "t-shirt",
+    "emoji": "running_shirt",
+    "pixel": "more-horizontal"
+  },
+  {
+    "solar": "tablet",
+    "emoji": "laptop",
+    "pixel": "device-tablet"
+  },
+  {
+    "solar": "tag",
+    "emoji": "label",
+    "pixel": "label"
+  },
+  {
+    "solar": "tag-horizontal",
+    "emoji": "label",
+    "pixel": "label-alt"
+  },
+  {
+    "solar": "tag-price",
+    "emoji": "ticket",
+    "pixel": "label-sharp"
+  },
+  {
+    "solar": "target",
+    "emoji": "bullseye",
+    "pixel": "bullseye"
+  },
+  {
+    "solar": "tea-cup",
+    "emoji": "teacup_without_handle",
+    "pixel": "tea"
+  },
+  {
+    "solar": "telescope",
+    "emoji": "telescope",
+    "pixel": "zoom-in"
+  },
+  {
+    "solar": "temperature",
+    "emoji": "thermometer",
+    "pixel": "more-horizontal"
+  },
+  {
+    "solar": "tennis",
+    "emoji": "tennis",
+    "pixel": "more-horizontal"
+  },
+  {
+    "solar": "tennis-2",
+    "emoji": "tennis",
+    "pixel": "more-horizontal"
+  },
+  {
+    "solar": "test-tube",
+    "emoji": "test_tube",
+    "pixel": "more-horizontal"
+  },
+  {
+    "solar": "test-tube-minimalistic",
+    "emoji": "alembic",
+    "pixel": "more-horizontal"
+  },
+  {
+    "solar": "text",
+    "emoji": "input_latin_letters",
+    "pixel": "art-text"
+  },
+  {
+    "solar": "text-bold",
+    "emoji": "black_nib",
+    "pixel": "art-text"
+  },
+  {
+    "solar": "text-bold-circle",
+    "emoji": "black_nib",
+    "pixel": "art-text"
+  },
+  {
+    "solar": "text-bold-square",
+    "emoji": "black_nib",
+    "pixel": "art-text"
+  },
+  {
+    "solar": "text-circle",
+    "emoji": "speech_balloon",
+    "pixel": "art-text"
+  },
+  {
+    "solar": "text-cross",
+    "emoji": "cross_mark",
+    "pixel": "text-add"
+  },
+  {
+    "solar": "text-cross-circle",
+    "emoji": "cross_mark",
+    "pixel": "text-add"
+  },
+  {
+    "solar": "text-cross-square",
+    "emoji": "cross_mark_button",
+    "pixel": "text-add"
+  },
+  {
+    "solar": "text-field",
+    "emoji": "input_latin_letters",
+    "pixel": "text-add"
+  },
+  {
+    "solar": "text-field-focus",
+    "emoji": "input_latin_letters",
+    "pixel": "text-add"
+  },
+  {
+    "solar": "text-italic",
+    "emoji": "pen",
+    "pixel": "art-text"
+  },
+  {
+    "solar": "text-italic-circle",
+    "emoji": "information",
+    "pixel": "circle"
+  },
+  {
+    "solar": "text-italic-square",
+    "emoji": "white_square_button",
+    "pixel": "more-horizontal"
+  },
+  {
+    "solar": "text-selection",
+    "emoji": "memo",
+    "pixel": "text-search"
+  },
+  {
+    "solar": "text-square",
+    "emoji": "white_square_button",
+    "pixel": "more-horizontal"
+  },
+  {
+    "solar": "text-square-2",
+    "emoji": "white_square_button",
+    "pixel": "more-horizontal"
+  },
+  {
+    "solar": "text-underline",
+    "emoji": "pen",
+    "pixel": "edit"
+  },
+  {
+    "solar": "text-underline-circle",
+    "emoji": "pen",
+    "pixel": "circle"
+  },
+  {
+    "solar": "text-underline-cross",
+    "emoji": "cross_mark",
+    "pixel": "close"
+  },
+  {
+    "solar": "thermometer",
+    "emoji": "thermometer",
+    "pixel": "more-horizontal"
+  },
+  {
+    "solar": "three-squares",
+    "emoji": "white_square_button",
+    "pixel": "grid"
+  },
+  {
+    "solar": "ticker-star",
+    "emoji": "star",
+    "pixel": "star"
+  },
+  {
+    "solar": "ticket",
+    "emoji": "ticket",
+    "pixel": "card"
+  },
+  {
+    "solar": "ticket-sale",
+    "emoji": "ticket",
+    "pixel": "card"
+  },
+  {
+    "solar": "to-pip",
+    "emoji": "white_square_button",
+    "pixel": "picture-in-picture"
+  },
+  {
+    "solar": "tornado",
+    "emoji": "tornado",
+    "pixel": "wind"
+  },
+  {
+    "solar": "tornado-small",
+    "emoji": "tornado",
+    "pixel": "wind"
+  },
+  {
+    "solar": "traffic",
+    "emoji": "horizontal_traffic_light",
+    "pixel": "more-horizontal"
+  },
+  {
+    "solar": "traffic-economy",
+    "emoji": "horizontal_traffic_light",
+    "pixel": "more-horizontal"
+  },
+  {
+    "solar": "tram",
+    "emoji": "tram",
+    "pixel": "more-horizontal"
+  },
+  {
+    "solar": "transfer-horizontal",
+    "emoji": "clockwise_vertical_arrows",
+    "pixel": "arrows-horizontal"
+  },
+  {
+    "solar": "transfer-vertical",
+    "emoji": "up_arrow",
+    "pixel": "arrows-vertical"
+  },
+  {
+    "solar": "translation",
+    "emoji": "globe_with_meridians",
+    "pixel": "more-horizontal"
+  },
+  {
+    "solar": "translation-2",
+    "emoji": "globe_with_meridians",
+    "pixel": "more-horizontal"
+  },
+  {
+    "solar": "transmission",
+    "emoji": "satellite_antenna",
+    "pixel": "radio-tower"
+  },
+  {
+    "solar": "transmission-circle",
+    "emoji": "satellite_antenna",
+    "pixel": "circle"
+  },
+  {
+    "solar": "transmission-square",
+    "emoji": "satellite_antenna",
+    "pixel": "more-horizontal"
+  },
+  {
+    "solar": "trash-bin-2",
+    "emoji": "wastebasket",
+    "pixel": "trash"
+  },
+  {
+    "solar": "trash-bin-minimalistic",
+    "emoji": "wastebasket",
+    "pixel": "trash"
+  },
+  {
+    "solar": "trash-bin-minimalistic-2",
+    "emoji": "wastebasket",
+    "pixel": "trash-alt"
+  },
+  {
+    "solar": "trash-bin-trash",
+    "emoji": "trash-bin-trash",
+    "pixel": "trash-bin-trash"
+  },
+  {
+    "solar": "treadmill",
+    "emoji": "running_shoe",
+    "pixel": "human-run"
+  },
+  {
+    "solar": "treadmill-round",
+    "emoji": "running_shoe",
+    "pixel": "human-run"
+  },
+  {
+    "solar": "trellis",
+    "emoji": "seedling",
+    "pixel": "grid"
+  },
+  {
+    "solar": "tuning",
+    "emoji": "control_knobs",
+    "pixel": "sliders"
+  },
+  {
+    "solar": "tuning-2",
+    "emoji": "control_knobs",
+    "pixel": "sliders-2"
+  },
+  {
+    "solar": "tuning-3",
+    "emoji": "control_knobs",
+    "pixel": "sliders"
+  },
+  {
+    "solar": "tuning-4",
+    "emoji": "control_knobs",
+    "pixel": "sliders"
+  },
+  {
+    "solar": "tuning-square",
+    "emoji": "control_knobs",
+    "pixel": "sliders"
+  },
+  {
+    "solar": "tuning-square-2",
+    "emoji": "control_knobs",
+    "pixel": "sliders-2"
+  },
+  {
+    "solar": "turntable",
+    "emoji": "musical_note",
+    "pixel": "music"
+  },
+  {
+    "solar": "turntable-minimalistic",
+    "emoji": "musical_note",
+    "pixel": "music"
+  },
+  {
+    "solar": "turntable-music-note",
+    "emoji": "musical_note",
+    "pixel": "music"
+  },
+  {
+    "solar": "tv",
+    "emoji": "television",
+    "pixel": "device-tv"
+  },
+  {
+    "solar": "ufo",
+    "emoji": "flying_saucer",
+    "pixel": "more-horizontal"
+  },
+  {
+    "solar": "ufo-2",
+    "emoji": "flying_saucer",
+    "pixel": "more-horizontal"
+  },
+  {
+    "solar": "ufo-3",
+    "emoji": "flying_saucer",
+    "pixel": "more-horizontal"
+  },
+  {
+    "solar": "umbrella",
+    "emoji": "umbrella",
+    "pixel": "more-horizontal"
+  },
+  {
+    "solar": "undo-left",
+    "emoji": "back_arrow",
+    "pixel": "undo"
+  },
+  {
+    "solar": "undo-left-round",
+    "emoji": "back_arrow",
+    "pixel": "undo"
+  },
+  {
+    "solar": "undo-left-round-square",
+    "emoji": "back_arrow",
+    "pixel": "undo"
+  },
+  {
+    "solar": "undo-left-square",
+    "emoji": "back_arrow",
+    "pixel": "undo"
+  },
+  {
+    "solar": "undo-right",
+    "emoji": "right_arrow",
+    "pixel": "redo"
+  },
+  {
+    "solar": "undo-right-round",
+    "emoji": "right_arrow",
+    "pixel": "redo"
+  },
+  {
+    "solar": "undo-right-round-square",
+    "emoji": "right_arrow",
+    "pixel": "redo"
+  },
+  {
+    "solar": "undo-right-square",
+    "emoji": "right_arrow",
+    "pixel": "redo"
+  },
+  {
+    "solar": "unread",
+    "emoji": "envelope",
+    "pixel": "mail-unread"
+  },
+  {
+    "solar": "upload",
+    "emoji": "upload",
+    "pixel": "upload"
+  },
+  {
+    "solar": "upload-minimalistic",
+    "emoji": "upload",
+    "pixel": "upload"
+  },
+  {
+    "solar": "upload-square",
+    "emoji": "upload",
+    "pixel": "upload"
+  },
+  {
+    "solar": "upload-track",
+    "emoji": "upload",
+    "pixel": "upload"
+  },
+  {
+    "solar": "upload-track-2",
+    "emoji": "upload",
+    "pixel": "upload"
+  },
+  {
+    "solar": "upload-twice-square",
+    "emoji": "upload",
+    "pixel": "upload"
+  },
+  {
+    "solar": "usb",
+    "emoji": "electric_plug",
+    "pixel": "more-horizontal"
+  },
+  {
+    "solar": "usb-circle",
+    "emoji": "electric_plug",
+    "pixel": "circle"
+  },
+  {
+    "solar": "usb-square",
+    "emoji": "electric_plug",
+    "pixel": "more-horizontal"
+  },
+  {
+    "solar": "user",
+    "emoji": "user",
+    "pixel": "user"
+  },
+  {
+    "solar": "user-block",
+    "emoji": "prohibited",
+    "pixel": "user-x"
+  },
+  {
+    "solar": "user-block-rounded",
+    "emoji": "prohibited",
+    "pixel": "user-x"
+  },
+  {
+    "solar": "user-check",
+    "emoji": "check_mark_button",
+    "pixel": "user-plus"
+  },
+  {
+    "solar": "user-check-rounded",
+    "emoji": "check_mark_button",
+    "pixel": "user-plus"
+  },
+  {
+    "solar": "user-circle",
+    "emoji": "bust_in_silhouette",
+    "pixel": "avatar"
+  },
+  {
+    "solar": "user-cross",
+    "emoji": "cross_mark",
+    "pixel": "user-x"
+  },
+  {
+    "solar": "user-cross-rounded",
+    "emoji": "cross_mark",
+    "pixel": "user-x"
+  },
+  {
+    "solar": "user-hand-up",
+    "emoji": "bust_in_silhouette",
+    "pixel": "human-handsup"
+  },
+  {
+    "solar": "user-hands",
+    "emoji": "people_hugging",
+    "pixel": "human-handsdown"
+  },
+  {
+    "solar": "user-heart",
+    "emoji": "heart",
+    "pixel": "user"
+  },
+  {
+    "solar": "user-heart-rounded",
+    "emoji": "heart",
+    "pixel": "user"
+  },
+  {
+    "solar": "user-id",
+    "emoji": "identification_card",
+    "pixel": "card-id"
+  },
+  {
+    "solar": "user-minus",
+    "emoji": "bust_in_silhouette",
+    "pixel": "user-minus"
+  },
+  {
+    "solar": "user-minus-rounded",
+    "emoji": "bust_in_silhouette",
+    "pixel": "user-minus"
+  },
+  {
+    "solar": "user-plus",
+    "emoji": "bust_in_silhouette",
+    "pixel": "user-plus"
+  },
+  {
+    "solar": "user-plus-rounded",
+    "emoji": "bust_in_silhouette",
+    "pixel": "user-plus"
+  },
+  {
+    "solar": "user-rounded",
+    "emoji": "bust_in_silhouette",
+    "pixel": "avatar"
+  },
+  {
+    "solar": "user-speak",
+    "emoji": "speaking_head",
+    "pixel": "user"
+  },
+  {
+    "solar": "user-speak-rounded",
+    "emoji": "speaking_head",
+    "pixel": "user"
+  },
+  {
+    "solar": "users-group-rounded",
+    "emoji": "busts_in_silhouette",
+    "pixel": "users"
+  },
+  {
+    "solar": "users-group-two-rounded",
+    "emoji": "busts_in_silhouette",
+    "pixel": "users"
+  },
+  {
+    "solar": "verified-check",
+    "emoji": "check_mark_button",
+    "pixel": "check"
+  },
+  {
+    "solar": "video-frame",
+    "emoji": "film_frames",
+    "pixel": "frame"
+  },
+  {
+    "solar": "video-frame-2",
+    "emoji": "film_frames",
+    "pixel": "frame"
+  },
+  {
+    "solar": "video-frame-cut",
+    "emoji": "clapper_board",
+    "pixel": "cut"
+  },
+  {
+    "solar": "video-frame-cut-2",
+    "emoji": "clapper_board",
+    "pixel": "cut"
+  },
+  {
+    "solar": "video-frame-play-horizontal",
+    "emoji": "play_button",
+    "pixel": "play"
+  },
+  {
+    "solar": "video-frame-play-vertical",
+    "emoji": "play_button",
+    "pixel": "play"
+  },
+  {
+    "solar": "video-frame-replace",
+    "emoji": "film_frames",
+    "pixel": "frame"
+  },
+  {
+    "solar": "video-library",
+    "emoji": "film_frames",
+    "pixel": "movie"
+  },
+  {
+    "solar": "videocamera",
+    "emoji": "video_camera",
+    "pixel": "video"
+  },
+  {
+    "solar": "videocamera-add",
+    "emoji": "video_camera",
+    "pixel": "video"
+  },
+  {
+    "solar": "videocamera-record",
+    "emoji": "record_button",
+    "pixel": "video"
+  },
+  {
+    "solar": "vinyl",
+    "emoji": "optical_disk",
+    "pixel": "music"
+  },
+  {
+    "solar": "vinyl-record",
+    "emoji": "optical_disk",
+    "pixel": "music"
+  },
+  {
+    "solar": "virus",
+    "emoji": "microbe",
+    "pixel": "bug"
+  },
+  {
+    "solar": "volleyball",
+    "emoji": "volleyball",
+    "pixel": "circle"
+  },
+  {
+    "solar": "volleyball-2",
+    "emoji": "volleyball",
+    "pixel": "circle"
+  },
+  {
+    "solar": "volume",
+    "emoji": "speaker_medium_volume",
+    "pixel": "volume"
+  },
+  {
+    "solar": "volume-cross",
+    "emoji": "muted_speaker",
+    "pixel": "volume-x"
+  },
+  {
+    "solar": "volume-knob",
+    "emoji": "control_knobs",
+    "pixel": "volume"
+  },
+  {
+    "solar": "volume-loud",
+    "emoji": "speaker_high_volume",
+    "pixel": "volume-3"
+  },
+  {
+    "solar": "volume-small",
+    "emoji": "speaker_low_volume",
+    "pixel": "volume-1"
+  },
+  {
+    "solar": "wad-of-money",
+    "emoji": "money_bag",
+    "pixel": "dollar"
+  },
+  {
+    "solar": "walking",
+    "emoji": "footprints",
+    "pixel": "human-run"
+  },
+  {
+    "solar": "walking-round",
+    "emoji": "footprints",
+    "pixel": "human-run"
+  },
+  {
+    "solar": "wallet",
+    "emoji": "purse",
+    "pixel": "wallet"
+  },
+  {
+    "solar": "wallet-2",
+    "emoji": "purse",
+    "pixel": "wallet"
+  },
+  {
+    "solar": "wallet-money",
+    "emoji": "money_bag",
+    "pixel": "wallet"
+  },
+  {
+    "solar": "wallpaper",
+    "emoji": "framed_picture",
+    "pixel": "image"
+  },
+  {
+    "solar": "washing-machine",
+    "emoji": "bubbles",
+    "pixel": "more-horizontal"
+  },
+  {
+    "solar": "washing-machine-minimalistic",
+    "emoji": "bubbles",
+    "pixel": "more-horizontal"
+  },
+  {
+    "solar": "watch-round",
+    "emoji": "watch",
+    "pixel": "device-watch"
+  },
+  {
+    "solar": "watch-square",
+    "emoji": "watch",
+    "pixel": "device-watch"
+  },
+  {
+    "solar": "watch-square-minimalistic",
+    "emoji": "watch",
+    "pixel": "device-watch"
+  },
+  {
+    "solar": "watch-square-minimalistic-charge",
+    "emoji": "battery",
+    "pixel": "battery-charging"
+  },
+  {
+    "solar": "water",
+    "emoji": "water_wave",
+    "pixel": "drop"
+  },
+  {
+    "solar": "water-sun",
+    "emoji": "sun_behind_cloud",
+    "pixel": "sun"
+  },
+  {
+    "solar": "waterdrop",
+    "emoji": "droplet",
+    "pixel": "drop"
+  },
+  {
+    "solar": "waterdrops",
+    "emoji": "sweat_droplets",
+    "pixel": "drop-full"
+  },
+  {
+    "solar": "weigher",
+    "emoji": "balance_scale",
+    "pixel": "scale"
+  },
+  {
+    "solar": "wheel",
+    "emoji": "wheel",
+    "pixel": "more-horizontal"
+  },
+  {
+    "solar": "wheel-angle",
+    "emoji": "wheel",
+    "pixel": "more-horizontal"
+  },
+  {
+    "solar": "whisk",
+    "emoji": "cooking",
+    "pixel": "more-horizontal"
+  },
+  {
+    "solar": "wi-fi-router",
+    "emoji": "wireless",
+    "pixel": "modem"
+  },
+  {
+    "solar": "wi-fi-router-minimalistic",
+    "emoji": "wireless",
+    "pixel": "modem"
+  },
+  {
+    "solar": "wi-fi-router-round",
+    "emoji": "wireless",
+    "pixel": "modem"
+  },
+  {
+    "solar": "widget",
+    "emoji": "puzzle_piece",
+    "pixel": "layout"
+  },
+  {
+    "solar": "widget-2",
+    "emoji": "puzzle_piece",
+    "pixel": "layout"
+  },
+  {
+    "solar": "widget-3",
+    "emoji": "puzzle_piece",
+    "pixel": "layout"
+  },
+  {
+    "solar": "widget-4",
+    "emoji": "puzzle_piece",
+    "pixel": "layout"
+  },
+  {
+    "solar": "widget-5",
+    "emoji": "puzzle_piece",
+    "pixel": "layout"
+  },
+  {
+    "solar": "widget-6",
+    "emoji": "puzzle_piece",
+    "pixel": "layout"
+  },
+  {
+    "solar": "widget-add",
+    "emoji": "puzzle_piece",
+    "pixel": "layout"
+  },
+  {
+    "solar": "wind",
+    "emoji": "wind_face",
+    "pixel": "wind"
+  },
+  {
+    "solar": "window-frame",
+    "emoji": "window",
+    "pixel": "frame"
+  },
+  {
+    "solar": "wineglass",
+    "emoji": "wine_glass",
+    "pixel": "cocktail"
+  },
+  {
+    "solar": "wineglass-triangle",
+    "emoji": "cocktail_glass",
+    "pixel": "cocktail"
+  },
+  {
+    "solar": "winrar",
+    "emoji": "file_cabinet",
+    "pixel": "file"
+  },
+  {
+    "solar": "wireless-charge",
+    "emoji": "wireless",
+    "pixel": "battery-charging"
+  },
+  {
+    "solar": "women",
+    "emoji": "womens_room",
+    "pixel": "human"
+  },
+  {
+    "solar": "xxx",
+    "emoji": "prohibited",
+    "pixel": "close"
+  },
+  {
+    "solar": "zip-file",
+    "emoji": "package",
+    "pixel": "file"
+  }
+]
