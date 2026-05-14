@@ -97,6 +97,7 @@ Add `--claude` to also write a `## pinion-icons` reference block into your proje
 ## Documentation
 
 - **[REFERENCE.md](REFERENCE.md)** — full API, virtual variant rules, synthetic-variant fallback, adding custom libraries.
+- **[INDEX.md](INDEX.md)** — searchable list of every Solar icon name (1,234 concepts) with quick-discovery prefix categories. Grep-friendly for AI agents (`rg "^- cart" INDEX.md`).
 - **[CLAUDE_SNIPPET.md](CLAUDE_SNIPPET.md)** — drop-in `## pinion-icons` block for Claude Code project guides.
 
 ## Pinion series
