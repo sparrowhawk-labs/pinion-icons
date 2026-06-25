@@ -8,3 +8,6 @@ composer.lock
 
 # Contributor doc (CLAUDE.md) — kept local-only, never published
 /CLAUDE.md
+
+# Internal docs — kept local-only, never published
+/docs/
