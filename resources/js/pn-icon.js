@@ -25,19 +25,19 @@
  */
 
 /**
- * Per-tune default variant map — the single source of truth (decided
- * 2026-06-25; do not duplicate in Blade). `pixel` is served by the
+ * Per-tune default variant map — the single source of truth (user-confirmed
+ * final map 2026-07-17; do not duplicate in Blade). `pixel` is served by the
  * pixelarticons library, every other variant is a Solar stroke style.
  */
 export const TUNE_VARIANT_MAP = {
-    default: 'bold-duotone',
+    default: 'outline',
     soft: 'bold-duotone',
     minimal: 'linear',
-    corporate: 'linear',
-    tech: 'linear',
-    sharp: 'bold',
+    corporate: 'bold',
+    tech: 'outline',
+    sharp: 'linear',
     brutal: 'bold',
-    editorial: 'outline',
+    editorial: 'line-duotone',
     luxury: 'line-duotone',
     pixel: 'pixel',
     draft: 'broken',

@@ -2,11 +2,11 @@
 
 @php
     // auto (tune 追従) の SSR 初期 variant: 明示 variant があればそれ、無ければ
-    // per-tune マップの `default` エントリ = bold-duotone を固定シード。
+    // per-tune マップの `default` エントリ = outline を固定シード。
     // マップ本体の単一ソースは resources/js/pn-icon.js（Blade には重複定義しない）。
     $autoExplicitVariant = $variant;
     if ($auto && $variant === null) {
-        $variant = 'bold-duotone';
+        $variant = 'outline';
     }
 
     // 優先順位: props > config default
