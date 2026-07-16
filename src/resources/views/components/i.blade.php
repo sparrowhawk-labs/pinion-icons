@@ -1,6 +1,14 @@
-@props(['type', 'variant' => null, 'library' => null])
+@props(['type', 'variant' => null, 'library' => null, 'auto' => false])
 
 @php
+    // auto (tune 追従) の SSR 初期 variant: 明示 variant があればそれ、無ければ
+    // per-tune マップの `default` エントリ = bold-duotone を固定シード。
+    // マップ本体の単一ソースは resources/js/pn-icon.js（Blade には重複定義しない）。
+    $autoExplicitVariant = $variant;
+    if ($auto && $variant === null) {
+        $variant = 'bold-duotone';
+    }
+
     // 優先順位: props > config default
     $iconLibrary = $library ?? config('icons.default_library', 'solar');
     $iconVariant = $variant ?? config('icons.default_style', 'bold-duotone');
@@ -53,4 +61,8 @@
     }
 @endphp
 
+@if ($auto)
+<pn-icon name="{{ $type }}" auto data-resolved-variant="{{ $variant }}"@if ($autoExplicitVariant) variant="{{ $autoExplicitVariant }}"@endif @if ($library) library="{{ $library }}"@endif {{ $attributes->except(['type', 'variant', 'library', 'auto'])->merge(['style' => 'display: contents;']) }}>{!! $svg !!}</pn-icon>
+@else
 {!! $svg !!}
+@endif
