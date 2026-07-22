@@ -50,9 +50,53 @@ Laravel auto-discovers the service provider. No further wiring needed.
 | `type`    | string | required              | Icon concept name (e.g., `home`, `heart`, `alt-arrow-right`) |
 | `variant` | string | `bold-duotone`        | Stroke style (`bold`, `linear`, …) or virtual (`emoji`, `pixel`) |
 | `library` | string | `solar`               | Icon library (`solar`, `solar-extra`, `fluent-emoji`, `pixelarticons`) |
+| `auto`    | bool   | `false`                | Opt-in: track the ancestor `data-tune` and swap the Solar/pixel variant automatically (see below). `variant` still wins if both are set. |
 | `class`   | string | —                     | CSS classes applied to the rendered `<svg>` |
 
 Any other HTML attribute passes through to the rendered `<svg>`.
+
+### Tune-reactive icons (`auto`)
+
+`<x-i type="pen" auto />` renders a Light-DOM `<pn-icon>` Web Component instead of a
+static `<svg>`. It reads the nearest ancestor `data-tune` (falling back to `<html>`)
+and picks the variant from a fixed, user-confirmed map — no config, no override:
+
+| tune | variant | tune | variant |
+|---|---|---|---|
+| `default` | `outline` | `editorial` | `line-duotone` |
+| `tech` | `outline` | `luxury` | `line-duotone` |
+| `minimal` | `linear` | `soft` | `bold-duotone` |
+| `sharp` | `linear` | `pixel` | `pixel` (pixelarticons) |
+| `corporate` | `bold` | `draft` | `broken` |
+| `brutal` | `bold` | | |
+
+The first paint is SSR-only (the initial `<svg>` for the `default` tune's `outline`
+variant is inlined server-side, exactly like a non-`auto` `<x-i>`) — JS is only
+needed to *change* variant when `data-tune` changes on an ancestor. A single
+module-level `MutationObserver` (not one per icon) re-syncs every mounted `auto`
+icon when it fires.
+
+**Wiring it up** (host app, one-time): bundle the SVG data for the icon names you
+actually use, then register it before first paint:
+
+```bash
+node vendor/sparrowhawk-labs/pinion-icons/bin/build-icon-data.mjs \
+  --out resources/js/pn-icon-data.js pen home heart alt-arrow-right
+```
+
+```js
+// resources/js/app.js
+import { register } from 'sparrowhawk-labs/pinion-icons/resources/js/pn-icon.js';
+import iconData from './pn-icon-data.js';
+register(iconData);
+```
+
+`bin/build-icon-data.mjs` is a dependency-free Node script (no `npm install`
+needed) — purge-style: it only bundles the Solar stroke variants the tune map can
+request (`bold-duotone` / `linear` / `bold` / `outline` / `line-duotone` / `broken`)
+plus the `pixelarticons` glyph, for exactly the icon names you list. Re-run it
+whenever you add an `auto` icon with a name that isn't bundled yet. No runtime
+HTTP — everything ships in your own JS bundle.
 
 ## Libraries
 
